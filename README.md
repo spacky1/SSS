@@ -22,7 +22,7 @@ A Skyrim Together Wabbajack Modlist
   - [Credits and Thanks](#credits-and-thanks)
 
 ## Preamble
-yea
+Read this.
 
 ## Installation
 If you are updating the modlist, skip to the [updating section](#updating).
@@ -99,7 +99,7 @@ Make sure the dropdown box on the right is set to `Skyrim Together Reborn` and p
 ## Updating the modlist
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
+Updating is like installing the list. Simply download the new .wabbajack file and open it. Make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
 
 ## FAQ
 #### I installed the ENB incorrectly, or I want better performance
