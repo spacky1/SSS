@@ -5,6 +5,8 @@ A Skyrim Together Wabbajack Modlist
 
 Since I'm too lazy to give a TL;DR of what is in the list, feel free to instead view the huge list of mods on [Load Order Library](https://loadorderlibrary.com/lists/spacks-sexy-skyrim)!
 
+
+
 ## Contents
   - [Preamble](#preamble)
   - [Requirements](#requirements)
@@ -30,10 +32,14 @@ Since I'm too lazy to give a TL;DR of what is in the list, feel free to instead 
   - [Removing the Modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
 
+
+
 ## Preamble
 Spack's Sexy Skyrim (hereinafter referred to as SSS to save the children) is the modlist ever.
 
 If you're new to installing a Wabbajack modlist or Skyrim modding in general, **please, please, please read this guide in its entirety.** If you ask me a question that's answered in this relatively short readme, I will slap you on the wrist with a wooden spoon.
+
+
 
 ## Requirements
 ### Accounts
@@ -47,14 +53,20 @@ If you're new to installing a Wabbajack modlist or Skyrim modding in general, **
 
 *If you do not have an account with one or both of these sites, make them now by clicking the links above.*
 
+
+
 ### Disk Space
   - This list contains 55 GB worth of downloads and an additional 105 GB to install the list for a total of **approx. 160 GB of required disk space**.
   - The downloads and the installation are allowed to be on separate drives.
   - You may delete the downloads folder after installation, although you will have to re-download the files if you want to update the list.
   - I recommend having the downloads folder on an SSD, as it will drastically speed up the installation.
 
+
+
 ## Installation
 If you are updating the modlist, skip to the [updating section](#updating).
+
+
 
 ### Pre-Installation
 Prior to installing, complete the following steps.
@@ -66,20 +78,25 @@ Prior to installing, complete the following steps.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as they will be replaced during installation.
 6. Start the game and exit once you've reached the main menu.
 
-### Wabbajack Installation
 
+
+### Wabbajack Installation
 #### Installing Wabbajack
 Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Wabbajack`. **Do not install it into a Windows system-managed folder. (e.g. Desktop, Downloads)** I recommend placing it on an SSD as it will work quicker on there.
+
+
 
 #### Downloading and Installing SSS
 Downloading and installing the modlist can take a while depending on your internet speed and hardware. To install SSS, complete the following steps.
 
-1. [Grab the latest version of the modlist from here.](https://github.com/spacky1/SSS/releases/latest) You only need to download the .wabbajack file. 
+1. [Grab the latest version of the modlist from here.](releases/latest) You only need to download the .wabbajack file. 
 2. Open the downloaded file. Wabbajack should open.
 3. Set the Installation Location to be somewhere like `C:\SSS`. **Do not install it into a Windows system-managed folder. (e.g. Desktop, Downloads)**
 4. The Download Location will autofill, but you are free to set a custom location. (on another drive, for example)
 5. Press the button to begin the install. Feel free to go do something else while WJ does its thing.
 6. If the installation is successful, move on to [Post-Installation](#post-installation). If not...
+
+
 
 ##### Problems with Installation
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
@@ -142,48 +159,50 @@ If you've already done this once, you can skip to the [next section](#downloadin
 
 1. In MO2, press Ctrl+S or press the Settings button in the top left.
 
-![image](https://github.com/spacky1/SSS/blob/main/images/st-step-1.png?raw=true)
+![image](images/st-step-1.png)
 
 
 
 2. In the Settings window, go to the "Nexus" tab and click `Associate with "Download with manager" links`.
 
-![image](https://github.com/spacky1/SSS/blob/main/images/st-step-2.png?raw=true)
+![image](images/st-step-2.png)
 
 
 
 #### Downloading and Updating Skyrim Together
 1. Go to the [Skyrim Together NexusMods page](https://www.nexusmods.com/skyrimspecialedition/mods/69993?tab=files) and click the `Mod Manager Download` button under "Main Files".
 
-![image](https://github.com/spacky1/SSS/blob/main/images/st-step-3.png?raw=true)
+![image](st-step-3.png)
 
 
 
 2. The mod should now be downloading through MO2. You can find it under the "Downloads" tab in the right pane of MO2 by sorting by filetime. Once the download is finished, double click the file to install it.
 
-![image](https://github.com/spacky1/SSS/blob/main/images/st-step-4.png?raw=true)
+![image](images/st-step-4.png)
 
 
 
 3. A window will pop up. Press `OK`.
 
-![image](https://github.com/spacky1/SSS/blob/main/images/st-step-5.png?raw=true)
+![image](st-step-5.png)
 
 
 
 4. Another window will pop up. Press `Ignore`.
 
-![image](https://github.com/spacky1/SSS/blob/main/images/st-step-6.png?raw=true)
+![image](images/st-step-6.png)
 
 
 
 5. *Another* window will pop up. Press `Replace`.
 
-![image](https://github.com/spacky1/SSS/blob/main/images/st-step-7.png?raw=true)
+![image](images/st-step-7.png)
 
 
 
 6. You're done!
+
+
 
 ### Updating the Modlist
 **Notes**:
@@ -193,6 +212,8 @@ If you've already done this once, you can skip to the [next section](#downloadin
 Before updating, back up your saves (located in `SSS\profiles\Spack's Sexy Skyrim\saves`) to a separate folder.
 
 Updating is like re-installing the list. Simply download the new .wabbajack file and open it. Make sure your paths are the same and tick the `overwrite existing modlist` button. Once the install is finished, you may copy your saves over.
+
+
 
 ## FAQ
 #### I installed the ENB incorrectly, or I want better performance
@@ -219,8 +240,12 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 #### My character's hair/warpaint/skin/virginity/etc disappeared
 - Open the console with tilde ( \` ) type `showracemenu`, and resave your character
 
+
+
 ## Removing the Modlist
 Everything in the modlist is self-contained. Simply delete the modlist folder, and you have uninstalled it.
+
+
 
 ## Credits and Thanks
 
