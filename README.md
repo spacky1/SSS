@@ -18,7 +18,7 @@ Browse the complete mod list on [Load Order Library](https://loadorderlibrary.co
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
-    - [ENB](#enb)
+    - [Installing the ENB](#installing-the-enb)
   - [Playing the List](#playing-the-list)
     - [Starting up the List](#starting-up-the-list)
     - [Starting the Game](#starting-the-game)
