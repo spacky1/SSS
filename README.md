@@ -92,7 +92,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	- Windows may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 - Something else:
-        - Let me know.
+	- Let me know.
 
 ## Post-Installation
 
@@ -115,9 +115,10 @@ Open the installation folder and double click on the program called `ModOrganize
 
 Make sure the dropdown box on the right is set to `Skyrim Together Reborn` and press the `Run` button. When prompted, select `SkyrimSE.exe` **from the modlist's "Game Root" folder – NOT Steam's Skyrim Special Edition folder!**
 
+Phew. You made it!
+
 ### Starting the Game
-- Phew. You made it!
-- By default, SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953). You are free to either play through the introduction or skip it.
+By default, SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953). You are free to either play through the introduction or skip it.
 
 ### Important Mod Controls
 - Skyrim Together GUI: Right Control
@@ -131,7 +132,9 @@ Make sure the dropdown box on the right is set to `Skyrim Together Reborn` and p
 ## Updating the modlist
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
 
-Updating is like installing the list. Simply download the new .wabbajack file and open it. Make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
+Updating is like installing the list. Simply download the new .wabbajack file and open it. Make sure your paths are the same and tick the `overwrite existing modlist` button.
+
+**Note**: Any mods you have added will be deleted when updating.
 
 ## FAQ
 #### I installed the ENB incorrectly, or I want better performance
