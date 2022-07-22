@@ -82,7 +82,7 @@ Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wa
 #### Downloading and Installing SSS
 Downloading and installing the modlist can take a while depending on your internet speed and hardware. To install SSS, complete the following steps.
 
-1. [Grab the latest version of the modlist from here.](/releases/latest) You only need to download the .wabbajack file. 
+1. [Grab the latest version of the modlist from here.](/../../releases/latest) You only need to download the .wabbajack file. 
 2. Open the downloaded file. Wabbajack should open.
 3. Set the Installation Location to be somewhere like `C:\SSS`. **Do not install it into a Windows system-managed folder. (e.g. Desktop, Downloads)**
 4. The Download Location will autofill, but you are free to set a custom location. (on another drive, for example)
@@ -158,26 +158,33 @@ If there is an update to ST, it's very easy to apply yourself and is much less t
 If you've already done this once, you can skip to the [next section](#downloading-and-updating-skyrim-together).
 
 1. In MO2, press Ctrl+S or press the Settings button in the top left.
+
 ![image](images/st-step-1.png)
 
 2. In the Settings window, go to the "Nexus" tab and click `Associate with "Download with manager" links`.
+
 ![image](images/st-step-2.png)
 
 
 #### Downloading and Updating Skyrim Together
 1. Go to the [Skyrim Together NexusMods page](https://www.nexusmods.com/skyrimspecialedition/mods/69993?tab=files) and click the `Mod Manager Download` button under "Main Files".
+
 ![image](images/st-step-3.png)
 
 2. The mod should now be downloading through MO2. You can find it under the "Downloads" tab in the right pane of MO2 by sorting by filetime. Once the download is finished, double click the file to install it.
+
 ![image](images/st-step-4.png)
 
 3. A window will pop up. Press `OK`.
+
 ![image](images/st-step-5.png)
 
 4. Another window will pop up. Press `Ignore`.
+
 ![image](images/st-step-6.png)
 
 5. *Another* window will pop up. Press `Replace`.
+
 ![image](images/st-step-7.png)
 
 6. You're done!
