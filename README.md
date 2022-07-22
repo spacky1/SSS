@@ -127,8 +127,6 @@ Open the installation folder and double click on the program called `ModOrganize
 
 Make sure the dropdown box on the right is set to `Skyrim Together Reborn` and press the `Run` button. When prompted, select `SkyrimSE.exe` **from the modlist's "Game Root" folder – NOT Steam's Skyrim Special Edition folder!**
 
-Phew. You made it!
-
 
 ### Starting the Game
 By default, SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953). You are free to either play through the introduction or skip it.
@@ -142,6 +140,8 @@ By default, SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspec
 - Screenshot: F1 (screenshots are saved to the Game Root folder)
 - ENB Menu: F11
 - Toggle DOF: F10
+
+Phew. You made it! ***Now go play your dang videogame.***
 
 
 ## Updating
