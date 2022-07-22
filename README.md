@@ -3,7 +3,7 @@ A Skyrim Together Wabbajack Modlist
 
 ![image](https://github.com/spacky1/SSS/blob/main/images/Splash.png?raw=true)
 
-Browse the complete mod list on [Load Order Library](https://loadorderlibrary.com/lists/spacks-sexy-skyrim)!
+Since I'm to lazy to explain what exactly is in the list, feel free to view the complete list of mods on [Load Order Library](https://loadorderlibrary.com/lists/spacks-sexy-skyrim)!
 
 ## Contents
   - [Preamble](#preamble)
@@ -19,13 +19,15 @@ Browse the complete mod list on [Load Order Library](https://loadorderlibrary.co
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
     - [Installing the ENB](#installing-the-enb)
-  - [Playing the List](#playing-the-list)
+  - [Playing the Modist](#playing-the-list)
     - [Starting up the List](#starting-up-the-list)
     - [Starting the Game](#starting-the-game)
     - [Important Controls](#important-controls)
-  - [Updating SSS](#updating-the-modlist)
+  - [Updating](#updating)
+    - [Updating Skyrim Together](#updating-skyrim-together)
+    - [Updating the Modlist](#updating-the-modlist)
   - [FAQ](#faq)
-  - [Removing the modlist](#removing-the-modlist)
+  - [Removing the Modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
 
 ## Preamble
@@ -70,7 +72,7 @@ Prior to installing, complete the following steps.
 Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Wabbajack`. **Do not install it into a Windows system-managed folder. (e.g. Desktop, Downloads)** I recommend placing it on an SSD as it will work quicker on there.
 
 #### Downloading and Installing SSS
-Downloading and installing the modlist can take a while depending on your internet connection and hardware. To install SSS, complete the following steps.
+Downloading and installing the modlist can take a while depending on your internet speed and hardware. To install SSS, complete the following steps.
 
 1. [Grab the latest version of the modlist from here.](https://github.com/spacky1/SSS/releases/latest) You only need to download the .wabbajack file. 
 2. Open the downloaded file. Wabbajack should open.
@@ -104,9 +106,7 @@ SSS is designed for use with Cabbage ENB. However, the author has not given perm
 
 1. [Download the preset from here](https://drive.google.com/uc?export=download&id=1Df8QfYbIhiDj6k3dLwW5yEDgEva75T4y).
 2. Open the archive and copy **ONLY** the `enbseries` folder.
-3. Paste this folder into `SSS\Game Root`. Windows should ask you whether you want to replace or skip the file. **Press skip–do not overwrite!**
-
-If you wish to install your own ENB, the list uses NAT.ENB's weather, so choose an ENB preset that is made for its weathers, such as... [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141). Another recommendation is [Berserkyr](https://www.nexusmods.com/skyrimspecialedition/mods/62381).
+3. Paste this folder into `SSS\Game Root`. Windows should ask you whether you want to replace or skip the file. **Press skip – do not overwrite!**
 
 ## Playing the List
 
@@ -129,21 +129,63 @@ By default, SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspec
 - ENB Menu: F11
 - Toggle DOF: F10
 
-## Updating the modlist
-Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
+## Updating
+There are two important updates you should be aware of:
+- Updates to Skyrim Together.
+- Updates to the modlist itself.
 
-Updating is like installing the list. Simply download the new .wabbajack file and open it. Make sure your paths are the same and tick the `overwrite existing modlist` button.
+### Updating Skyrim Together
+I recommend always having the latest version of Skyrim Together. If there is an update, it's very easy to do yourself and is much less time-consuming to update itself rather than installing the latest modlist.
 
-**Note**: Any mods you have added will be deleted when updating.
+#### Enabling MO2 Downloads
+If you've already done this once, you can skip to the [next section](#downloading-and-updating-skyrim-together).
+
+1. In MO2, press Ctrl+S or press the Settings button in the top left.
+
+![image](https://github.com/spacky1/SSS/blob/main/images/st-step-1.png?raw=true)
+
+2. In the Settings window, go to the "Nexus" tab and click `Associate with "Download with manager" links`.
+
+![image](https://github.com/spacky1/SSS/blob/main/images/st-step-2.png?raw=true)
+
+#### Downloading and Updating Skyrim Together
+1. Go to the [Skyrim Together NexusMods page](https://www.nexusmods.com/skyrimspecialedition/mods/69993?tab=files) and click the `Mod Manager Download` button under "Main Files".
+
+![image](https://github.com/spacky1/SSS/blob/main/images/st-step-3.png?raw=true)
+
+2. The mod should now be downloading through MO2. You can find it under the "Downloads" tab in the right pane of MO2 by sorting by filetime. Once the download is finished, double click the file to install it.
+
+![image](https://github.com/spacky1/SSS/blob/main/images/st-step-4.png?raw=true)
+
+3. A window will pop up. Press `OK`.
+
+![image](https://github.com/spacky1/SSS/blob/main/images/st-step-5.png?raw=true)
+
+4. Another window will pop up. Press `Ignore`.
+
+![image](https://github.com/spacky1/SSS/blob/main/images/st-step-6.png?raw=true)
+
+5. *Another* window will pop up. Press `Replace`.
+
+![image](https://github.com/spacky1/SSS/blob/main/images/st-step-7.png?raw=true)
+
+6. You're done!
+
+### Updating the Modlist
+Before updating, back up your saves (located in `SSS\profiles\Spack's Sexy Skyrim\saves`) to a separate folder.
+
+Updating is like installing the list. Simply download the new .wabbajack file and open it. Make sure your paths are the same and tick the `overwrite existing modlist` button. Once the install is finished, you may copy your saves over.
+
+**Notes**:
+- Any mods you have added yourself will be deleted when updating.
+- Unless explicitly stated, updates to the modlist should be save-compatible.
 
 ## FAQ
 #### I installed the ENB incorrectly, or I want better performance
 - The tweaks I've made to Cabbage are contained within the `SSS\Spack's Cabbage Tweaks` folder. Simply choose either the Default or Performance files, then copy the files within that folder to the Game Root folder, overwriting when prompted.
 
-
 #### Should I choose the default ENB preset or the performance ENB preset?
 - Try default first. If you get frequent dips below 30fps, I would switch to the performance preset.
-
 
 #### When launching Skyrim Together, I get an error about "Address Library"
 - You didn't select the correct SkyrimSE executable. When launching Skyrim Together through MO2, hold down Space and select the correct .exe from `SSS\Game Root`.
@@ -151,18 +193,17 @@ Updating is like installing the list. Simply download the new .wabbajack file an
 #### How do I enable donger
 - Enable male and/or female nudity by expanding the `Nudity` separator in the left pane of MO2, and activating the respective mods.
 
+#### I don't like the included ENB.
+- The list uses NAT.ENB's weather, so you may easily replace Cabbage with an ENB preset that is made for its weathers, such as... [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141). Another recommendation is [Berserkyr](https://www.nexusmods.com/skyrimspecialedition/mods/62381).
 
 #### Various character overlays (e.g. bodypaints) do not sync
 - As far as I know, this is currently an issue with Skyrim Together. Idk.
 
-
 #### The game crashes on startup!
 - Once the game window opens, don't tab out until you get to the main menu. It doesn't like that.
 
-
 #### My character's hair/warpaint/skin/virginity/etc disappeared
 - Open the console with tilde ( \` ) type `showracemenu`, and resave your character
-
 
 ## Removing the Modlist
 Everything in the modlist is self-contained. Simply delete the modlist folder, and you have uninstalled it.
