@@ -121,7 +121,7 @@ Updating is like installing the list. Simply download the new .wabbajack file an
 
 
 #### The game crashes on startup!
-- Don't tab out once the game window opens and the ENB is caching shaders.
+- Once the game window opens, don't tab out until you get to the main menu. It doesn't like that.
 
 
 #### My character's hair/warpaint/skin/virginity/etc disappeared
