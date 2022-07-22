@@ -1,8 +1,9 @@
 # SSS
 A Skyrim Together Wabbajack Modlist
 
-View the complete mod list on [Load Order Library](https://loadorderlibrary.com/lists/spacks-sexy-skyrim)!
 ![image](https://github.com/spacky1/SSS/blob/main/images/Splash.png?raw=true)
+
+View the complete mod list on [Load Order Library](https://loadorderlibrary.com/lists/spacks-sexy-skyrim)!
 ## Contents
   - [Preamble](#preamble)
   - [Requirements](#requirements)
@@ -18,7 +19,7 @@ View the complete mod list on [Load Order Library](https://loadorderlibrary.com/
     - [Game Folder](#game-folder)
     - [ENB](#enb)
   - [Playing the List](#playing-the-list)
-    - [Starting up the list](#starting-up-the-list)
+    - [Starting up the List](#starting-up-the-list)
     - [Starting the Game](#starting-the-game)
     - [Important Controls](#important-controls)
   - [Updating SSS](#updating-the-modlist)
@@ -34,20 +35,19 @@ If you're new to installing a Wabbajack modlist or Skyrim modding in general, **
 ## Requirements
 ### Accounts
 ##### NexusMods
-  - You will need a free [NexusMods](https://users.nexusmods.com/register) account to download the list.
-  - Nexus Premium (~$7) is highly recommended as well. If you do not have Premium you will have to click "Download" on each mod manually.
+  - You will need a free [NexusMods](https://users.nexusmods.com/register) account.
+  - Nexus Premium (~$7) is highly recommended as well. Otherwise, you will have to manually click the download button on each mod.
   - If you are going to install this modlist without Premium – ***godspeed.***
 
 ##### LoversLab
-  - You will also need a free [LoversLab](https://www.loverslab.com/register/) account because this list has (**optional and opt-in only**) dongers and whizbangers.
-  - Although these features are optional, you still must make an account or the modlist will not be able to finish installing.
+  - You will also need a free [LoversLab](https://www.loverslab.com/register/) account.
 
 *If you do not have an account with one or both of these sites, make them now by clicking the links above.*
 
 ### Disk Space
-  - This list contains 55 GB worth of downloads and an additional ~105 GB to install the list for a total of **~160 GB of required disk space**, in addition to the vanilla Skyrim install.
+  - This list contains 55 GB worth of downloads and an additional 105 GB to install the list for a total of **approx. 160 GB of required disk space**.
   - The downloads and the installation are allowed to be on separate drives.
-  - After installation, you may delete the downloads folder, although you will have to re-download the files if you want to update the list.
+  - You may delete the downloads folder after installation, although you will have to re-download the files if you want to update the list.
   - I recommend having the downloads folder on an SSD, as it will drastically speed up the installation.
 
 ## Installation
@@ -90,6 +90,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Antivirus reports a virus:
 	- Windows may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
+- Something else:
+        - Let me know.
+
 ## Post-Installation
 
 ### Game Folder
@@ -106,7 +109,7 @@ If you wish to install your own ENB, the list uses NAT.ENB's weather, so choose 
 
 ## Playing the List
 
-### Starting up the list
+### Starting up the List
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
 Make sure the dropdown box on the right is set to `Skyrim Together Reborn` and press the `Run` button. When prompted, select `SkyrimSE.exe` **from the modlist's "Game Root" folder – NOT Steam's Skyrim Special Edition folder!**
@@ -141,6 +144,9 @@ Updating is like installing the list. Simply download the new .wabbajack file an
 #### When launching Skyrim Together, I get an error about "Address Library"
 - You didn't select the correct SkyrimSE executable. When launching Skyrim Together through MO2, hold down Space and select the correct .exe from `SSS\Game Root`.
 
+#### How do I enable donger
+- Enable male and/or female nudity by expanding the `Nudity` separator in the left pane of MO2, and activating the respective mods.
+
 
 #### Various character overlays (e.g. bodypaints) do not sync
 - As far as I know, this is currently an issue with Skyrim Together. Idk.
@@ -160,4 +166,4 @@ Everything in the modlist is self-contained. Simply delete the modlist folder, a
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- Sad bear for
+- The bear for
