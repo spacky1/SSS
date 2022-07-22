@@ -1,6 +1,8 @@
 # SSS
 A Skyrim Together Wabbajack Modlist
 
+![image](https://github.com/spacky1/SSS/blob/main/images/Splash.png?raw=true)
+
 ## Contents
   - [Preamble](#preamble)
   - [Installation](#installation)
