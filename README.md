@@ -23,7 +23,7 @@ Since I'm too lazy to give a TL;DR of what is in the list, feel free to instead 
   - [Playing the Modist](#playing-the-list)
     - [Starting up the List](#starting-up-the-list)
     - [Starting the Game](#starting-the-game)
-    - [Important Controls](#important-controls)
+    - [Important Mod-Added Controls](#important-mod-added-controls)
   - [Updating](#updating)
     - [Updating Skyrim Together](#updating-skyrim-together)
     - [Updating the Modlist](#updating-the-modlist)
@@ -102,9 +102,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Antivirus reports a virus:
 	- Windows may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-- Something else:
-	- Let me know.
-
 
 ## Post-Installation
 
@@ -132,7 +129,7 @@ Make sure the dropdown box on the right is set to `Skyrim Together Reborn` and p
 By default, SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953). You are free to either play through the introduction or skip it.
 
 
-### Important Mod Controls
+### Important Mod-Added Controls
 - Skyrim Together GUI: Right Control
 - Emotes: Right Alt
 - Lock-On: Middle Mouse Button
