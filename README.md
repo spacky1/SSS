@@ -45,7 +45,7 @@ Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wa
 #### Downloading and Installing SSS
 Downloading and installing the modlist can take a while depending on your internet connection and specs. To install SSS, complete the following steps.
 
-1. Grab the latest version of the modlist from [here.](https://github.com/spacky1/SSS/releases) You only need to download the .wabbajack file. 
+1. [Grab the latest version of the modlist from here.](https://github.com/spacky1/SSS/releases) You only need to download the .wabbajack file. 
 2. Locate and open the .wabbajack file. Wabbajack should open.
 3. Set the Installation Location to be somewhere like `C:\SSS`. **Do not install it into a Windows system-managed folder. (e.g. Desktop, Downloads, etc.) This may or may not break the fuck out of the list.**
 4. Press the button to begin the install. Feel free to go do something else while WJ does its thing.
@@ -71,7 +71,7 @@ SSS uses a Wabbajack feature called Stock Game to keep your original Skyrim inst
 ### Installing the ENB
 SSS is designed for use with Cabbage ENB. However, the author has not allowed the file to be whitelisted for Wabbajack, so it has to be downloaded and installed manually, which is simple enough.
 
-1. Download the preset from [here](https://drive.google.com/uc?export=download&id=1Df8QfYbIhiDj6k3dLwW5yEDgEva75T4y).
+1. [Download the preset from here](https://drive.google.com/uc?export=download&id=1Df8QfYbIhiDj6k3dLwW5yEDgEva75T4y).
 2. Open the archive and copy **ONLY** the `enbseries` folder.
 3. Paste this folder into `SSS\Game Root`. Windows should ask you whether you want to replace or skip the file. **Press skip–do not overwrite!**
 
