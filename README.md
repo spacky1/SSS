@@ -24,7 +24,7 @@ A Skyrim Together Wabbajack Modlist
   - [Credits and Thanks](#credits-and-thanks)
 
 ## Preamble
-Read this.
+If you're new to installing a Wabbajack modlist or Skyrim modding in general, **read this guide in its entirety.**
 
 ## Installation
 If you are updating the modlist, skip to the [updating section](#updating).
