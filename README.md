@@ -123,7 +123,7 @@ Updating is like installing the list. Simply download the new .wabbajack file an
 
 
 #### My character's hair/warpaint/skin/virginity/etc disappeared
-- Open the console with tilde (\`\) type `showracemenu`, and resave your character
+- Open the console with tilde ( \`\ ) type `showracemenu`, and resave your character
 
 
 ## Removing the Modlist
