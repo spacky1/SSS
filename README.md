@@ -86,7 +86,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	- Big files can fail to download due to connection issues. You can either try running Wabbajack again or download the file manually and place it in the downloads folder.
 
 - Wabbajack could not find my game folder:
-	- Either buy the game or go back to the [Pre-Installation](#pre-installation) step.
+	- Either buy the game or re-read the [Pre-Installation](#pre-installation) step.
 
 - Antivirus reports a virus:
 	- Windows may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
