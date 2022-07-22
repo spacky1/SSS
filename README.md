@@ -1,7 +1,7 @@
 # SSS
 A Skyrim Together Wabbajack Modlist
 
-![image](https://github.com/spacky1/SSS/blob/main/images/Splash.png?raw=true)
+![image](images/Splash.png)
 
 Since I'm too lazy to give a TL;DR of what is in the list, feel free to instead view the huge list of mods on [Load Order Library](https://loadorderlibrary.com/lists/spacks-sexy-skyrim)!
 
@@ -132,7 +132,7 @@ By default, SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspec
 ## Updating
 There are two important updates you should be aware of:
 - Updates to Skyrim Together. I recommend always having the latest version.
-- Updates to the modlist itself. These are not required, but may have vital fixes; check the [changelog](https://github.com/spacky1/SSS/blob/main/CHANGELOG.md).
+- Updates to the modlist itself. These are not required, but may have vital fixes; check the [changelog](CHANGELOG.md).
 
 ### Updating Skyrim Together
 If there is an update to ST, it's very easy to apply yourself and is much less time-consuming to update than installing the latest list.
@@ -144,30 +144,44 @@ If you've already done this once, you can skip to the [next section](#downloadin
 
 ![image](https://github.com/spacky1/SSS/blob/main/images/st-step-1.png?raw=true)
 
+
+
 2. In the Settings window, go to the "Nexus" tab and click `Associate with "Download with manager" links`.
 
 ![image](https://github.com/spacky1/SSS/blob/main/images/st-step-2.png?raw=true)
+
+
 
 #### Downloading and Updating Skyrim Together
 1. Go to the [Skyrim Together NexusMods page](https://www.nexusmods.com/skyrimspecialedition/mods/69993?tab=files) and click the `Mod Manager Download` button under "Main Files".
 
 ![image](https://github.com/spacky1/SSS/blob/main/images/st-step-3.png?raw=true)
 
+
+
 2. The mod should now be downloading through MO2. You can find it under the "Downloads" tab in the right pane of MO2 by sorting by filetime. Once the download is finished, double click the file to install it.
 
 ![image](https://github.com/spacky1/SSS/blob/main/images/st-step-4.png?raw=true)
+
+
 
 3. A window will pop up. Press `OK`.
 
 ![image](https://github.com/spacky1/SSS/blob/main/images/st-step-5.png?raw=true)
 
+
+
 4. Another window will pop up. Press `Ignore`.
 
 ![image](https://github.com/spacky1/SSS/blob/main/images/st-step-6.png?raw=true)
 
+
+
 5. *Another* window will pop up. Press `Replace`.
 
 ![image](https://github.com/spacky1/SSS/blob/main/images/st-step-7.png?raw=true)
+
+
 
 6. You're done!
 
