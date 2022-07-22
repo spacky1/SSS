@@ -3,7 +3,8 @@ A Skyrim Together Wabbajack Modlist
 
 ![image](https://github.com/spacky1/SSS/blob/main/images/Splash.png?raw=true)
 
-View the complete mod list on [Load Order Library](https://loadorderlibrary.com/lists/spacks-sexy-skyrim)!
+Browse the complete mod list on [Load Order Library](https://loadorderlibrary.com/lists/spacks-sexy-skyrim)!
+
 ## Contents
   - [Preamble](#preamble)
   - [Requirements](#requirements)
@@ -71,7 +72,7 @@ Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wa
 #### Downloading and Installing SSS
 Downloading and installing the modlist can take a while depending on your internet connection and hardware. To install SSS, complete the following steps.
 
-1. [Grab the latest version of the modlist from here.](https://github.com/spacky1/SSS/releases) You only need to download the .wabbajack file. 
+1. [Grab the latest version of the modlist from here.](https://github.com/spacky1/SSS/releases/latest) You only need to download the .wabbajack file. 
 2. Open the downloaded file. Wabbajack should open.
 3. Set the Installation Location to be somewhere like `C:\SSS`. **Do not install it into a Windows system-managed folder. (e.g. Desktop, Downloads)**
 4. The Download Location will autofill, but you are free to set a custom location. (on another drive, for example)
