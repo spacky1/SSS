@@ -129,7 +129,7 @@ Updating is like installing the list. Simply download the new .wabbajack file an
 
 
 ## Removing the Modlist
-Simply delete the folder, and you have uninstalled it.
+Everything in the modlist is self-contained. Simply delete the modlist folder, and you have uninstalled it.
 
 ## Credits and Thanks
 
