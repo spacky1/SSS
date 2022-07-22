@@ -6,7 +6,6 @@ A Skyrim Together Wabbajack Modlist
 Since I'm too lazy to give a TL;DR of what is in the list, feel free to instead view the huge list of mods on [Load Order Library](https://loadorderlibrary.com/lists/spacks-sexy-skyrim)!
 
 
-
 ## Contents
   - [Preamble](#preamble)
   - [Requirements](#requirements)
@@ -33,12 +32,10 @@ Since I'm too lazy to give a TL;DR of what is in the list, feel free to instead 
   - [Credits and Thanks](#credits-and-thanks)
 
 
-
 ## Preamble
 Spack's Sexy Skyrim (hereinafter referred to as SSS to save the children) is the modlist ever.
 
 If you're new to installing a Wabbajack modlist or Skyrim modding in general, **please, please, please read this guide in its entirety.** If you ask me a question that's answered in this relatively short readme, I will slap you on the wrist with a wooden spoon.
-
 
 
 ## Requirements
@@ -54,7 +51,6 @@ If you're new to installing a Wabbajack modlist or Skyrim modding in general, **
 *If you do not have an account with one or both of these sites, make them now by clicking the links above.*
 
 
-
 ### Disk Space
   - This list contains 55 GB worth of downloads and an additional 105 GB to install the list for a total of **approx. 160 GB of required disk space**.
   - The downloads and the installation are allowed to be on separate drives.
@@ -62,10 +58,8 @@ If you're new to installing a Wabbajack modlist or Skyrim modding in general, **
   - I recommend having the downloads folder on an SSD, as it will drastically speed up the installation.
 
 
-
 ## Installation
 If you are updating the modlist, skip to the [updating section](#updating).
-
 
 
 ### Pre-Installation
@@ -79,23 +73,21 @@ Prior to installing, complete the following steps.
 6. Start the game and exit once you've reached the main menu.
 
 
-
 ### Wabbajack Installation
+
 #### Installing Wabbajack
 Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder such as `C:\Wabbajack`. **Do not install it into a Windows system-managed folder. (e.g. Desktop, Downloads)** I recommend placing it on an SSD as it will work quicker on there.
-
 
 
 #### Downloading and Installing SSS
 Downloading and installing the modlist can take a while depending on your internet speed and hardware. To install SSS, complete the following steps.
 
-1. [Grab the latest version of the modlist from here.](releases/latest) You only need to download the .wabbajack file. 
+1. [Grab the latest version of the modlist from here.](/releases/latest) You only need to download the .wabbajack file. 
 2. Open the downloaded file. Wabbajack should open.
 3. Set the Installation Location to be somewhere like `C:\SSS`. **Do not install it into a Windows system-managed folder. (e.g. Desktop, Downloads)**
 4. The Download Location will autofill, but you are free to set a custom location. (on another drive, for example)
 5. Press the button to begin the install. Feel free to go do something else while WJ does its thing.
 6. If the installation is successful, move on to [Post-Installation](#post-installation). If not...
-
 
 
 ##### Problems with Installation
@@ -113,10 +105,12 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Something else:
 	- Let me know.
 
+
 ## Post-Installation
 
 ### Game Folder
 SSS uses a Wabbajack feature called Stock Game to keep your original Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”.
+
 
 ### Installing the ENB
 SSS is designed for use with Cabbage ENB. However, the author has not given permission for the files to be whitelisted for Wabbajack, so it has to be downloaded and installed manually, which is simple enough.
@@ -124,6 +118,7 @@ SSS is designed for use with Cabbage ENB. However, the author has not given perm
 1. [Download the preset from here](https://drive.google.com/uc?export=download&id=1Df8QfYbIhiDj6k3dLwW5yEDgEva75T4y).
 2. Open the archive and copy **ONLY** the `enbseries` folder.
 3. Paste this folder into `SSS\Game Root`. Windows should ask you whether you want to replace or skip the file. **Press skip – do not overwrite!**
+
 
 ## Playing the List
 
@@ -134,8 +129,10 @@ Make sure the dropdown box on the right is set to `Skyrim Together Reborn` and p
 
 Phew. You made it!
 
+
 ### Starting the Game
 By default, SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953). You are free to either play through the introduction or skip it.
+
 
 ### Important Mod Controls
 - Skyrim Together GUI: Right Control
@@ -146,62 +143,44 @@ By default, SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspec
 - ENB Menu: F11
 - Toggle DOF: F10
 
+
 ## Updating
 There are two important updates you should be aware of:
 - Updates to Skyrim Together. I recommend always having the latest version.
 - Updates to the modlist itself. These are not required, but may have vital fixes; check the [changelog](CHANGELOG.md).
 
+
 ### Updating Skyrim Together
 If there is an update to ST, it's very easy to apply yourself and is much less time-consuming to update than installing the latest list.
+
 
 #### Enabling MO2 Downloads
 If you've already done this once, you can skip to the [next section](#downloading-and-updating-skyrim-together).
 
 1. In MO2, press Ctrl+S or press the Settings button in the top left.
-
 ![image](images/st-step-1.png)
 
-
-
 2. In the Settings window, go to the "Nexus" tab and click `Associate with "Download with manager" links`.
-
 ![image](images/st-step-2.png)
-
 
 
 #### Downloading and Updating Skyrim Together
 1. Go to the [Skyrim Together NexusMods page](https://www.nexusmods.com/skyrimspecialedition/mods/69993?tab=files) and click the `Mod Manager Download` button under "Main Files".
-
-![image](st-step-3.png)
-
-
+![image](images/st-step-3.png)
 
 2. The mod should now be downloading through MO2. You can find it under the "Downloads" tab in the right pane of MO2 by sorting by filetime. Once the download is finished, double click the file to install it.
-
 ![image](images/st-step-4.png)
 
-
-
 3. A window will pop up. Press `OK`.
-
-![image](st-step-5.png)
-
-
+![image](images/st-step-5.png)
 
 4. Another window will pop up. Press `Ignore`.
-
 ![image](images/st-step-6.png)
 
-
-
 5. *Another* window will pop up. Press `Replace`.
-
 ![image](images/st-step-7.png)
 
-
-
 6. You're done!
-
 
 
 ### Updating the Modlist
@@ -212,7 +191,6 @@ If you've already done this once, you can skip to the [next section](#downloadin
 Before updating, back up your saves (located in `SSS\profiles\Spack's Sexy Skyrim\saves`) to a separate folder.
 
 Updating is like re-installing the list. Simply download the new .wabbajack file and open it. Make sure your paths are the same and tick the `overwrite existing modlist` button. Once the install is finished, you may copy your saves over.
-
 
 
 ## FAQ
@@ -241,13 +219,10 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 - Open the console with tilde ( \` ) type `showracemenu`, and resave your character
 
 
-
 ## Removing the Modlist
 Everything in the modlist is self-contained. Simply delete the modlist folder, and you have uninstalled it.
 
 
-
 ## Credits and Thanks
-
 - _YOU_ for reading this.
 - The bear for
