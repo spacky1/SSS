@@ -229,4 +229,5 @@ Everything in the modlist is self-contained. Simply delete the modlist folder, a
 
 ## Credits and Thanks
 - _YOU_ for reading this.
+- Althro and the Animonculory Team for AVO, the foundation of this modlist. Let's be real here: they did 99% of the work for me.
 - The bear for
