@@ -3,7 +3,7 @@ A Skyrim Together Wabbajack Modlist
 
 ![image](https://github.com/spacky1/SSS/blob/main/images/Splash.png?raw=true)
 
-Since I'm to lazy to explain what exactly is in the list, feel free to view the complete list of mods on [Load Order Library](https://loadorderlibrary.com/lists/spacks-sexy-skyrim)!
+Since I'm too lazy to give a TL;DR of what is in the list, feel free to instead view the huge list of mods on [Load Order Library](https://loadorderlibrary.com/lists/spacks-sexy-skyrim)!
 
 ## Contents
   - [Preamble](#preamble)
@@ -131,11 +131,11 @@ By default, SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspec
 
 ## Updating
 There are two important updates you should be aware of:
-- Updates to Skyrim Together.
-- Updates to the modlist itself.
+- Updates to Skyrim Together. I recommend always having the latest version.
+- Updates to the modlist itself. These are not required, but may have vital fixes; check the [changelog](https://github.com/spacky1/SSS/blob/main/CHANGELOG.md).
 
 ### Updating Skyrim Together
-I recommend always having the latest version of Skyrim Together. If there is an update, it's very easy to do yourself and is much less time-consuming to update itself rather than installing the latest modlist.
+If there is an update to ST, it's very easy to apply yourself and is much less time-consuming to update than installing the latest list.
 
 #### Enabling MO2 Downloads
 If you've already done this once, you can skip to the [next section](#downloading-and-updating-skyrim-together).
@@ -172,13 +172,13 @@ If you've already done this once, you can skip to the [next section](#downloadin
 6. You're done!
 
 ### Updating the Modlist
-Before updating, back up your saves (located in `SSS\profiles\Spack's Sexy Skyrim\saves`) to a separate folder.
-
-Updating is like installing the list. Simply download the new .wabbajack file and open it. Make sure your paths are the same and tick the `overwrite existing modlist` button. Once the install is finished, you may copy your saves over.
-
 **Notes**:
 - Any mods you have added yourself will be deleted when updating.
 - Unless explicitly stated, updates to the modlist should be save-compatible.
+
+Before updating, back up your saves (located in `SSS\profiles\Spack's Sexy Skyrim\saves`) to a separate folder.
+
+Updating is like re-installing the list. Simply download the new .wabbajack file and open it. Make sure your paths are the same and tick the `overwrite existing modlist` button. Once the install is finished, you may copy your saves over.
 
 ## FAQ
 #### I installed the ENB incorrectly, or I want better performance
