@@ -105,20 +105,26 @@ Updating is like installing the list. Simply download the new .wabbajack file an
 #### I installed the ENB incorrectly, or I want better performance
 - The tweaks I've made to Cabbage are contained within the `SSS\Spack's Cabbage Tweaks` folder. Simply choose either the Default or Performance files, then copy the files within that folder to the Game Root folder, overwriting when prompted.
 
+
 #### Should I choose the default ENB preset or the performance ENB preset?
 - Try default first. If you get frequent dips below 30fps, I would switch to the performance preset.
+
 
 #### When launching Skyrim Together, I get an error about "Address Library"
 - You didn't select the correct SkyrimSE executable. When launching Skyrim Together through MO2, hold down Space and select the correct .exe from `SSS\Game Root`.
 
+
 #### Various character overlays (e.g. bodypaints) do not sync
 - As far as I know, this is currently an issue with Skyrim Together. Idk.
 
-#### The game crashes on startup!
-- Don't tab out once the game window opens.
 
-#### My character's hair/warpaint/skin/etc disappeared
+#### The game crashes on startup!
+- Don't tab out once the game window opens and the ENB is caching shaders.
+
+
+#### My character's hair/warpaint/skin/virginity/etc disappeared
 - Open the console with tilde (\`\) type `showracemenu`, and resave your character
+
 
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
