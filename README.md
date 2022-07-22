@@ -36,7 +36,7 @@ If you're new to installing a Wabbajack modlist or Skyrim modding in general, **
 ##### NexusMods
   - You will need a free [NexusMods](https://users.nexusmods.com/register) account to download the list.
   - Nexus Premium (~$7) is highly recommended as well. If you do not have Premium you will have to click "Download" on each mod manually.
-  - If you are going to install this modlist without Premium–***godspeed.***
+  - If you are going to install this modlist without Premium – ***godspeed.***
 
 ##### LoversLab
   - You will also need a free [LoversLab](https://www.loverslab.com/register/) account because this list has (**optional and opt-in only**) dongers and whizbangers.
