@@ -128,13 +128,16 @@ SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/m
 
 
 ### Important Mod-Added Controls
-- Skyrim Together GUI: Right Control
-- Emotes (VPA): Right Alt
+- Skyrim Together Menu: Right Control
+- Emotes Menu: Right Alt
 - Lock-On: Middle Mouse Button
 - Toggle UI: X
 - Screenshot: F1 (screenshots are saved to the Game Root folder)
 - ENB Menu: F11
 - Toggle DOF: F10
+- Health Potion Hotkey: <
+- Stamina Potion Hotkey: >
+- Magicka Potion Hotkey: /
 
 Phew. You made it! ***Now go play your dang videogame.***
 
