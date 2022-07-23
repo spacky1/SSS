@@ -138,6 +138,7 @@ SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/m
 - Health Potion Hotkey: <
 - Stamina Potion Hotkey: >
 - Magicka Potion Hotkey: /
+- Toggle Lantern: L
 
 Phew. You made it! ***Now go play your dang videogame.***
 
