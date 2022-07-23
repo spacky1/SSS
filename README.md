@@ -3,7 +3,7 @@ A Skyrim Together Wabbajack Modlist
 
 ![image](images/Splash.png)
 
-Since I'm too lazy to give a TL;DR of what is in the list, feel free to instead view the huge list of mods on [Load Order Library](https://loadorderlibrary.com/lists/spacks-sexy-skyrim)!
+View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-sexy-skyrim).
 
 
 ## Contents
@@ -33,9 +33,10 @@ Since I'm too lazy to give a TL;DR of what is in the list, feel free to instead 
 
 
 ## Preamble
-Spack's Sexy Skyrim (hereinafter referred to as SSS to save the children) is the modlist ever.
+Spack's Sexy Skyrim (hereinafter referred to as SSS) is the modlist ever.
 
-If you're new to installing a Wabbajack modlist or Skyrim modding in general, **please, please, please read this guide in its entirety.** If you ask me a question that's answered in this relatively short readme, I will slap you on the wrist with a wooden spoon.
+If you're new to installing a Wabbajack modlist or Skyrim modding in general:
+	**Please, please, please read this guide in its entirety.**
 
 
 ## Requirements
@@ -43,7 +44,6 @@ If you're new to installing a Wabbajack modlist or Skyrim modding in general, **
 ##### NexusMods
   - You will need a free [NexusMods](https://users.nexusmods.com/register) account.
   - Nexus Premium (~$7) is highly recommended as well. Otherwise, you will have to manually click the download button on each mod.
-  - If you are going to install this modlist without Premium – ***godspeed.***
 
 ##### LoversLab
   - You will also need a free [LoversLab](https://www.loverslab.com/register/) account.
@@ -52,9 +52,7 @@ If you're new to installing a Wabbajack modlist or Skyrim modding in general, **
 
 
 ### Disk Space
-  - This list contains 55 GB worth of downloads and an additional 105 GB to install the list for a total of **approx. 160 GB of required disk space**.
-  - The downloads and the installation are allowed to be on separate drives.
-  - You may delete the downloads folder after installation, although you will have to re-download the files if you want to update the list.
+  - Space required: **approx. 160 GB** (including downloads)
   - I recommend having the downloads folder on an SSD, as it will drastically speed up the installation.
 
 
@@ -70,7 +68,7 @@ Prior to installing, complete the following steps.
 3. Reinstall Skyrim **outside of a Windows system-managed folder. (e.g. Desktop, Downloads)**. Somewhere like `C:\Games` is a good location. I recommend using [this program](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to easily set up a new Steam library location.
 4. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 5. Start the game once and let it do the graphics check. Do not worry about the settings as they will be replaced during installation.
-6. Start the game and exit once you've reached the main menu.
+6. Exit and proceed with installation once you've reached the main menu.
 
 
 ### Wabbajack Installation
@@ -126,12 +124,12 @@ Make sure the dropdown box on the right is set to `Skyrim Together Reborn` and p
 
 
 ### Starting the Game
-By default, SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953). You are free to either play through the introduction or skip it.
+SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953). You are free to either play through the introduction or skip it.
 
 
 ### Important Mod-Added Controls
 - Skyrim Together GUI: Right Control
-- Emotes: Right Alt
+- Emotes (VPA): Right Alt
 - Lock-On: Middle Mouse Button
 - Toggle UI: X
 - Screenshot: F1 (screenshots are saved to the Game Root folder)
