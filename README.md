@@ -138,7 +138,7 @@ SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/m
 - Health Potion Hotkey: <
 - Stamina Potion Hotkey: >
 - Magicka Potion Hotkey: /
-- Toggle Lantern: L
+- Simplest Horses Menu: H
 
 Phew. You made it! ***Now go play your dang videogame.***
 
@@ -201,7 +201,7 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 
 ## FAQ
 #### I installed the ENB incorrectly, or I want better performance
-- The tweaks I've made to Cabbage are contained within the `SSS\Spack's Cabbage Tweaks` folder. Simply choose either the Default or Performance files, then copy the files within that folder to the Game Root folder, overwriting when prompted.
+- The tweaks I've made to Cabbage are contained within the `SSS\tools\ENB Organizer\Games\SkyrimSE\Presets` folder. Simply choose either the Default or Performance files, then copy the files within that folder to the Game Root folder, overwriting when prompted.
 
 #### Should I choose the default ENB preset or the performance ENB preset?
 - Try default first. If you get frequent dips below 30fps, I would switch to the performance preset.
@@ -222,7 +222,7 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 - Once the game window opens, don't tab out until you get to the main menu. It doesn't like that.
 
 #### My character's hair/warpaint/skin/virginity/etc disappeared
-- Open the console with tilde ( \` ) type `showracemenu`, and resave your character
+- Save, quit to menu, and reload
 
 
 ## Removing the Modlist
