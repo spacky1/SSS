@@ -52,7 +52,7 @@ If you're new to installing a Wabbajack modlist or Skyrim modding in general:
 
 
 ### Disk Space
-  - Space required: **approx. 160 GB** (including downloads)
+  - Space required: **approx. 163 GB** (including downloads)
   - I recommend having the downloads folder on an SSD, as it will drastically speed up the installation.
 
 
