@@ -206,14 +206,14 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 #### Should I choose the default ENB preset or the performance ENB preset?
 - Try default first. If you get frequent dips below 30fps, I would switch to the performance preset.
 
-#### When launching Skyrim Together, I get an error about "Address Library"
+#### I get an "Address Library" error when launching Skyrim Together
 - You didn't select the correct SkyrimSE executable. When launching Skyrim Together through MO2, hold down Space and select the correct .exe from `SSS\Game Root`.
 
-#### How do I enable donger
-- Enable male and/or female nudity by expanding the `Nudity` separator in the left pane of MO2, and activating the respective mods.
+#### How do I enable male dongers and/or female whizbangers
+- Enable male and/or female nudity by expanding the `Nudity` separator in the left pane of MO2, and activating the respective mods. They are simply mesh replacers, so keep that in mind if you change any of the included character meshes
 
 #### I don't like the included ENB.
-- The list uses NAT.ENB's weather, so you may easily replace Cabbage with an ENB preset that is made for its weathers, such as... [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141). Another recommendation is [Berserkyr](https://www.nexusmods.com/skyrimspecialedition/mods/62381).
+- The list uses NAT.ENB's weather, so you may easily replace Cabbage with an ENB preset that is made for its weathers... such as [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141). Another recommendation is [Berserkyr](https://www.nexusmods.com/skyrimspecialedition/mods/62381).
 
 #### Various character overlays (e.g. bodypaints) do not sync
 - As far as I know, this is currently an issue with Skyrim Together. Idk.
@@ -224,6 +224,8 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 #### My character's hair/warpaint/skin/virginity/etc disappeared
 - Save, quit to menu, and reload
 
+#### My character sometimes turns invisible in 3rd person
+- This is a bug with AVO that I am not sure how to fix. Can confirm that [this fix](https://www.nexusmods.com/skyrimspecialedition/articles/3821) works in the meantime.
 
 ## Removing the Modlist
 Everything in the modlist is self-contained. Simply delete the modlist folder, and you have uninstalled it.
