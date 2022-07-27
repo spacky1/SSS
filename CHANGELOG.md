@@ -20,6 +20,26 @@
 
 -->
 
+## 0.4.1
+
+**Build at:** `7/27/2022 1:57 PM`
+
+**Should be save compatible**
+
+**Info**:
+
+- Fixed bugged nordic catacombs candle meshes
+- Tweaked Scrambled Bugs and NPC potions settings
+- Fixed music mods merge
+
+**Download Changes**:
+
+- Added [Cloaks and Capes Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/19510?tab=files&file_id=169146)
+- Added [Smooth Random Blocking Animation 3.0](https://www.nexusmods.com/skyrimspecialedition/mods/59239?tab=files&file_id=245535)
+- Removed [Ruins Clutter Improved patch parallax patch](https://www.nexusmods.com/skyrimspecialedition/mods/68843?tab=files&file_id=288135)
+- Removed [Seamless Combat Camera](https://www.nexusmods.com/skyrimspecialedition/mods/53856?tab=files&file_id=221525)
+
+
 ## 0.4.0
 
 **Build at:** `7/26/2022 3:54 PM`
@@ -138,6 +158,7 @@
 - Removed [Horses Simply Turn Better](https://www.nexusmods.com/skyrimspecialedition/mods/57790?tab=files&file_id=238472)
 - Removed [Simple Wearable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/58464?tab=files&file_id=242994)
 - Removed [Simple Wearable Lanterns - Toggle Hotkey](https://www.nexusmods.com/skyrimspecialedition/mods/59727?tab=files&file_id=300858)
+
 
 ## 0.3.2
 
