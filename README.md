@@ -152,7 +152,7 @@ There are two important updates you should be aware of:
 ### Updating Skyrim Together
 If there is an update to ST, it's very easy to apply yourself and is much less time-consuming to update than installing the latest list.
 
-
+<!--
 #### Enabling MO2 Downloads
 If you've already done this once, you can skip to the [next section](#downloading-and-updating-skyrim-together).
 
@@ -163,10 +163,10 @@ If you've already done this once, you can skip to the [next section](#downloadin
 2. In the Settings window, go to the "Nexus" tab and click `Associate with "Download with manager" links`.
 
 ![image](images/st-step-2.png)
-
+-->
 
 #### Downloading and Updating Skyrim Together
-1. Go to the [Skyrim Together NexusMods page](https://www.nexusmods.com/skyrimspecialedition/mods/69993?tab=files) and click the `Mod Manager Download` button under "Main Files".
+1. Go to the [Skyrim Together modpage](https://www.nexusmods.com/skyrimspecialedition/mods/69993?tab=files) and click the `Mod Manager Download` button under "Main Files".
 
 ![image](images/st-step-3.png)
 
@@ -224,8 +224,6 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 #### My character's hair/warpaint/skin/virginity/etc disappeared
 - Save, quit to menu, and reload
 
-#### My character sometimes turns invisible in 3rd person
-- This is a bug with AVO that I am not sure how to fix. Can confirm that [this fix](https://www.nexusmods.com/skyrimspecialedition/articles/3821) works in the meantime.
 
 ## Removing the Modlist
 Everything in the modlist is self-contained. Simply delete the modlist folder, and you have uninstalled it.
@@ -233,5 +231,5 @@ Everything in the modlist is self-contained. Simply delete the modlist folder, a
 
 ## Credits and Thanks
 - _YOU_ for reading this.
-- Althro and the Animonculory Team for AVO, the foundation of this modlist. Let's be real here: they did 99% of the work for me.
+- Althro and the Animonculory Team for AVO, the graphical foundation of this modlist. Let's be real here: they did 99% of the work for me.
 - The bear for
