@@ -22,21 +22,52 @@
 
 ## 0.5.0
 
-**Build at:** `CHANGELOG WIP`
+**Build at:** `7/27/2022 10:39 PM`
 
 **Info**:
+
+- Regenerated bodyslide to accommodate for new meshes/textures
+- Hopefully fixed the invisible player bug
+- Tweaked combat (again)
+- Fixed some outfit clipping issues
 
 **Download Changes**:
 
 - Added [3D Riften Trellis and Roofs](https://www.nexusmods.com/skyrimspecialedition/mods/56973?tab=files&file_id=234411)
+- Added [Blade and Blunt - Vanilla Difficulty Modifiers](https://www.nexusmods.com/skyrimspecialedition/mods/34549?tab=files&file_id=189597)
+- Added [Daedric Shrines - Namira](https://www.nexusmods.com/skyrimspecialedition/mods/71758?tab=files&file_id=300590)
+- Added [HIMBO Lite SE](https://www.nexusmods.com/skyrimspecialedition/mods/63107?tab=files&file_id=280826)
+- Added [HIMBO Lite SE - Refits](https://www.nexusmods.com/skyrimspecialedition/mods/63107?tab=files&file_id=262083)
 - Added [Quality CubeMaps - HD Cube Maps](https://www.nexusmods.com/skyrimspecialedition/mods/38231?tab=files&file_id=152190)
+- Added [Realistic Melee Range](https://www.nexusmods.com/skyrimspecialedition/mods/3378?tab=files&file_id=61942)
 - Added [Silver Objects SMIMed - Silver - Sovngarde - Thieves Guild - Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/70787?tab=files&file_id=297083)
+- Added [SOS Light Version with Tempered Skins for Males SSE](https://www.loverslab.com/files/file/3692-sos-light-version-with-tempered-skins-for-males-sse/)
+- Added [Tempered Skins for Males - SOS Light Version](https://www.nexusmods.com/skyrimspecialedition/mods/7902?tab=files&file_id=162986)
+- Added [Unofficial Skyrim Modder's Patch - USMP SE](https://www.nexusmods.com/skyrimspecialedition/mods/49616?tab=files&file_id=302734)
+- Added [XP32 Maximum Skeleton Special Extended - XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988?tab=files&file_id=178559)
 - Removed [HN66s Long Eye Lashes SE](https://www.nexusmods.com/skyrimspecialedition/mods/50966?tab=files&file_id=208120)
 - Removed [Schlongs Of Skyrim Light SE](https://www.loverslab.com/files/file/3705-schlongs-of-skyrim-light-se/)
 - Removed [SOS Light - NeverNude](https://www.loverslab.com/files/file/6307-sos-light-nevernude/)
+- Updated [3BA Vanilla Clothes and Armor](https://www.nexusmods.com/skyrimspecialedition/mods/51610?tab=files&file_id=301349)
+- Updated [Adamant Perks For NPCS](https://www.nexusmods.com/skyrimspecialedition/mods/47484?tab=files&file_id=301827)
 - Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117?tab=files&file_id=298591)
+- Updated [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files&file_id=302310)
 - Updated [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312?tab=files&file_id=296828)
 - Updated [Cathedral 3D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756?tab=files&file_id=301038)
+- Updated [Daedric Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/67389?tab=files&file_id=293495)
+- Updated [Daedric Shrines by Mandragorasprouts - Loading Screen Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/66061?tab=files&file_id=300926)
+- Updated [Ebony Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/60942?tab=files&file_id=294132)
+- Updated [Footprints Bright Snow fix](https://www.nexusmods.com/skyrimspecialedition/mods/61760?tab=files&file_id=273908)
+- Updated [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339?tab=files&file_id=294916)
+- Updated [Iron Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59113?tab=files&file_id=293522)
+- Updated [JS Essence Extractor SE](https://www.nexusmods.com/skyrimspecialedition/mods/66578?tab=files&file_id=292448)
+- Updated [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250?tab=files&file_id=301852)
+- Updated [Mortal Enemies SE](https://www.nexusmods.com/skyrimspecialedition/mods/4881?tab=files&file_id=11785)
+- Updated [Mysticism Spells For Npcs](https://www.nexusmods.com/skyrimspecialedition/mods/53682?tab=files&file_id=301835)
+- Updated [Orcish Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59907?tab=files&file_id=294122)
+- Updated [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854?tab=files&file_id=293479)
+- Updated [Security Overhaul SKSE - Add-ons](https://www.nexusmods.com/skyrimspecialedition/mods/59529?tab=files&file_id=297355)
+- Updated [Security Overhaul SKSE - Lock Variations](https://www.nexusmods.com/skyrimspecialedition/mods/58224?tab=files&file_id=297358)
 - Updated [Steel Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59445?tab=files&file_id=294117)
 
 ## 0.4.1
