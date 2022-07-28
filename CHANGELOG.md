@@ -20,6 +20,18 @@
 
 -->
 
+## 0.5.0
+
+**Build at:** `CHANGELOG WIP`
+
+**Info**:
+
+**Download Changes**:
+
+- Removed [HN66s Long Eye Lashes SE](https://www.nexusmods.com/skyrimspecialedition/mods/50966?tab=files&file_id=208120)
+- Removed [Schlongs Of Skyrim Light SE](https://www.loverslab.com/files/file/3705-schlongs-of-skyrim-light-se/)
+- Removed [SOS Light - NeverNude](https://www.loverslab.com/files/file/6307-sos-light-nevernude/)
+
 ## 0.4.1
 
 **Build at:** `7/27/2022 1:57 PM`
