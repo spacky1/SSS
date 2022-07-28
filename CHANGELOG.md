@@ -28,9 +28,16 @@
 
 **Download Changes**:
 
+- Added [3D Riften Trellis and Roofs](https://www.nexusmods.com/skyrimspecialedition/mods/56973?tab=files&file_id=234411)
+- Added [Quality CubeMaps - HD Cube Maps](https://www.nexusmods.com/skyrimspecialedition/mods/38231?tab=files&file_id=152190)
+- Added [Silver Objects SMIMed - Silver - Sovngarde - Thieves Guild - Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/70787?tab=files&file_id=297083)
 - Removed [HN66s Long Eye Lashes SE](https://www.nexusmods.com/skyrimspecialedition/mods/50966?tab=files&file_id=208120)
 - Removed [Schlongs Of Skyrim Light SE](https://www.loverslab.com/files/file/3705-schlongs-of-skyrim-light-se/)
 - Removed [SOS Light - NeverNude](https://www.loverslab.com/files/file/6307-sos-light-nevernude/)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117?tab=files&file_id=298591)
+- Updated [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312?tab=files&file_id=296828)
+- Updated [Cathedral 3D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756?tab=files&file_id=301038)
+- Updated [Steel Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59445?tab=files&file_id=294117)
 
 ## 0.4.1
 
