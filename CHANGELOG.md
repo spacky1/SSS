@@ -24,6 +24,8 @@
 
 **Build at:** `7/27/2022 10:39 PM`
 
+**Not save compatible!**
+
 **Info**:
 
 - Regenerated bodyslide to accommodate for new meshes/textures
@@ -94,7 +96,7 @@
 
 **Build at:** `7/26/2022 3:54 PM`
 
-**Not save safe!**
+**Not save compatible!**
 
 **Info:**
 
@@ -214,7 +216,7 @@
 
 **Build at:** `7/23/2022 8:52 AM`
 
-**Should be save safe**
+**Should be save compatible**
 
 **Info**:
 
