@@ -20,6 +20,45 @@
 
 -->
 
+## 0.6.0
+
+**Build at:** `WIP`
+
+**Not save safe!**
+
+**Info**:
+
+- 
+
+**Download Changes**:
+
+- Added []()
+- Removed [3BA Vanilla Armors - No Rim Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/59268?tab=files&file_id=297111)
+- Removed [Artesian Cloaks of Skyrim - Cloaks and Capes](https://www.nexusmods.com/skyrimspecialedition/mods/17416?tab=files&file_id=58844)
+- Removed [Artesian Cloaks of Skyrim - Cloaks of Skyrim Retextured](https://www.nexusmods.com/skyrimspecialedition/mods/17416?tab=files&file_id=171756)
+- Removed [Artesian Cloaks of Skyrim - Daedric Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/17416?tab=files&file_id=57482)
+- Removed [Artesian Cloaks of Skyrim - Divine Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/17416?tab=files&file_id=57483)
+- Removed [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549?tab=files&file_id=292166)
+- Removed [Blade and Blunt - Vanilla Difficulty Modifiers](https://www.nexusmods.com/skyrimspecialedition/mods/34549?tab=files&file_id=189597)
+- Removed [CBBE Vanilla Armors - No Rim Lighting - Prebuilt Meshes (Curvy)](https://www.nexusmods.com/skyrimspecialedition/mods/59268?tab=files&file_id=294720)
+- Removed [Cloaks and Capes](https://www.nexusmods.com/skyrimspecialedition/mods/2019?tab=files&file_id=35552)
+- Removed [Cloaks and Capes 4K - Cleaned and Upscaled Textures](https://www.nexusmods.com/skyrimspecialedition/mods/71327?tab=files&file_id=298666)
+- Removed [Cloaks and Capes Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/19510?tab=files&file_id=169146)
+- Removed [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369?tab=files&file_id=18422)
+- Removed [Cloaks of Skyrim Retextured Mesh Update](https://www.nexusmods.com/skyrimspecialedition/mods/42558?tab=files&file_id=263634)
+- Removed [Daedric Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/9530?tab=files&file_id=26344)
+- Removed [Divine Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/9304?tab=files&file_id=160557)
+- Removed [ETHEREAL CLOUDS - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/2393?tab=files&file_id=166494)
+- Removed [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339?tab=files&file_id=294916)
+- Removed [HDT SMP XMLs - Artesian Cloaks of Skyrim Retextured Performance XMLs](https://www.nexusmods.com/skyrimspecialedition/mods/25240?tab=files&file_id=206213)
+- Removed [HDT SMP XMLs - Artesian Cloaks of Skyrim Performance Replacement XMLs](https://www.nexusmods.com/skyrimspecialedition/mods/25240?tab=files&file_id=103627)
+- Removed [No Follower Attack Collision](https://www.nexusmods.com/skyrimspecialedition/mods/65037?tab=files&file_id=275183)
+- Removed [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099?tab=files&file_id=292326)
+- Removed [Skyland Night Sky](https://www.nexusmods.com/skyrimspecialedition/mods/56368?tab=files&file_id=231959)
+- Removed [Voltage](https://www.nexusmods.com/skyrimspecialedition/mods/15565?tab=files&file_id=52703)
+- Updated []()
+
+
 ## 0.5.0
 
 **Build at:** `7/27/2022 10:39 PM`
