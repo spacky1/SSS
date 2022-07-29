@@ -209,20 +209,24 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 #### I get an "Address Library" error when launching Skyrim Together
 - You didn't select the correct SkyrimSE executable. When launching Skyrim Together through MO2, hold down Space and select the correct .exe from `SSS\Game Root`.
 
-#### How do I enable male dongers and/or female whizbangers
-- Enable male and/or female nudity by expanding the `Nudity` separator in the left pane of MO2, and activating the respective mods. They are simply mesh replacers, so keep that in mind if you change any of the included character meshes
+#### How do I enable male dongers and female whizbangers
+- Enable nudity by expanding the `Nudity` separator in the left pane of MO2, and activating the mod. It is simply a mesh replacer.
 
 #### I don't like the included ENB.
-- The list uses NAT.ENB's weather, so you may easily replace Cabbage with an ENB preset that is made for its weathers... such as [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141). Another recommendation is [Berserkyr](https://www.nexusmods.com/skyrimspecialedition/mods/62381).
+- The list uses NAT's weather, so you can easily replace Cabbage with an ENB preset that is made for its weathers, such as [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141) or [Berserkyr](https://www.nexusmods.com/skyrimspecialedition/mods/62381).
 
-#### Various character overlays (e.g. bodypaints) do not sync
-- As far as I know, this is currently an issue with Skyrim Together. Idk.
+#### Various character features (e.g. bodypaints) do not sync correctly
+- Only vanilla preset colors will sync correctly for skin , hair, etc. Overlays in the Makeup tab of RaceMenu will sync and can be a custom color. However, overlays in the other tabs (facepaint, bodypaint, etc) will not sync at all and never will because they are added by RaceMenu, and ST has no way to sync these.
+- TL;DR: Only choose preset colors for skin, hair, etc. Make sure all overlays (makeup, warpaints) are in RaceMenu's Makeup tab. (they can be a custom color)
 
 #### The game crashes on startup!
 - Once the game window opens, don't tab out until you get to the main menu. It doesn't like that.
 
 #### My character's hair/warpaint/skin/virginity/etc disappeared
 - Save, quit to menu, and reload
+
+#### X outfit has clipping issues!
+- I know and I care too, but this isn't my problem to fix. Feel free to let me know of issues with outfits OTHER THAN clipping.
 
 
 ## Removing the Modlist
