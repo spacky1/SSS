@@ -107,14 +107,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 SSS uses a Wabbajack feature called Stock Game to keep your original Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”.
 
 
-### Installing the ENB
-SSS is designed for use with Cabbage ENB. However, the author has not given permission for the files to be whitelisted for Wabbajack, so it has to be downloaded and installed manually, which is simple enough.
-
-1. [Download the preset from here](https://drive.google.com/uc?export=download&id=1Df8QfYbIhiDj6k3dLwW5yEDgEva75T4y).
-2. Open the archive and copy **ONLY** the `enbseries` folder.
-3. Paste this folder into `SSS\Game Root`. Windows should ask you whether you want to replace or skip the file. **Press skip – do not overwrite!**
-
-
 ## Playing the List
 
 ### Starting up the List
@@ -200,12 +192,6 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 
 
 ## FAQ
-#### I installed the ENB incorrectly, or I want better performance
-- The tweaks I've made to Cabbage are contained within the `SSS\tools\ENB Organizer\Games\SkyrimSE\Presets` folder. Simply choose either the Default or Performance files, then copy the files within that folder to the Game Root folder, overwriting when prompted.
-
-#### Should I choose the default ENB preset or the performance ENB preset?
-- Try default first. If you get frequent dips below 30fps, I would switch to the performance preset.
-
 #### I get an "Address Library" error when launching Skyrim Together
 - You didn't select the correct SkyrimSE executable. When launching Skyrim Together through MO2, hold down Space and select the correct .exe from `SSS\Game Root`.
 
@@ -213,7 +199,7 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 - Enable nudity by expanding the `Nudity` separator in the left pane of MO2, and activating the mod. It is simply a mesh replacer.
 
 #### I don't like the included ENB.
-- The list uses NAT's weather, so you can easily replace Cabbage with an ENB preset that is made for its weathers, such as [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141) or [Berserkyr](https://www.nexusmods.com/skyrimspecialedition/mods/62381).
+- The list uses NAT's weather, so you can easily replace the included ENB with an preset that is made for its weathers, such as [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141), [Berserkyr](https://www.nexusmods.com/skyrimspecialedition/mods/62381), or [Cabbage](https://drive.google.com/file/d/1zUtXwRXjvgRfO3R7xN-uqSoC17qS-Lxc/view).
 
 #### Various character features (e.g. bodypaints) do not sync correctly
 - Only vanilla preset colors will sync correctly for skin , hair, etc. Overlays in the Makeup tab of RaceMenu will sync and can be a custom color. However, overlays in the other tabs (facepaint, bodypaint, etc) will not sync at all and never will because they are added by RaceMenu, and ST has no way to sync these.
