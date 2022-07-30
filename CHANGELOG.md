@@ -22,17 +22,52 @@
 
 ## 0.6.0
 
-**Build at:** `WIP`
+**Build at:** `7/29/2022 4:53 PM`
 
 **Not save safe!**
 
 **Info**:
 
-- 
+- Major ENB rework (no longer requires manual ENB download)
+- Sky & cloud textures rework
+- Visual FX addons/replaced
+- Added forest debris
+- Removed religion/combat mods in hopes of fixing CTDs
+- Patches
 
 **Download Changes**:
 
-- Added []()
+- Added [8K Night Skies - Stars and Galaxies - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/20301?tab=files&file_id=261146)
+- Added [Actually flat flat snow drifts - fix hovering snow drift shadow with ENB](https://www.nexusmods.com/skyrimspecialedition/mods/71437?tab=files&file_id=299259)
+- Added [Animated Clutter SSE](https://www.nexusmods.com/skyrimspecialedition/mods/14398?tab=files&file_id=42632)
+- Added [CLOUDS](https://www.nexusmods.com/skyrimspecialedition/mods/67436?tab=files&file_id=281732)
+- Added [Deadly Spell Impacts for Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/71724?tab=files&file_id=300447)
+- Added [Draw 2 - Dual Weapon Equip-Unequip Animations - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/63834?tab=files&file_id=265070)
+- Added [Enhanced Blood Textures SE - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56560?tab=files&file_id=249659)
+- Added [Fire Halo Remover](https://www.nexusmods.com/skyrimspecialedition/mods/28381?tab=files&file_id=103647)
+- Added [Improved Sparks - Grindstones](https://www.nexusmods.com/skyrimspecialedition/mods/19831?tab=files&file_id=190599)
+- Added [Improved Sparks - Impact Effects](https://www.nexusmods.com/skyrimspecialedition/mods/19831?tab=files&file_id=186528)
+- Added [Improved Weapon Impact EFFECTS Correct Metal SE](https://www.nexusmods.com/skyrimspecialedition/mods/8936?tab=files&file_id=22636)
+- Added [Improved Weapon Impact EFFECTS Correct Metal SE - Immersive Sounds Patch](https://www.nexusmods.com/skyrimspecialedition/mods/38686?tab=files&file_id=152251)
+- Added [NAT.ENB III - Audio Overhaul - Sounds of Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/58449?tab=files&file_id=241481)
+- Added [Nature of the Wild Lands - forest and trees improvement mod](https://www.nexusmods.com/skyrimspecialedition/mods/63604?tab=files&file_id=300501)
+- Added [Nature of the Wildlands - Forest Debris Only](https://www.nexusmods.com/skyrimspecialedition/mods/71607?tab=files&file_id=300815)
+- Added [Patch for Dwemer Automatons Glowmapped and Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/57476?tab=files&file_id=236973)
+- Added [PRT XII - Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/4743?tab=files&file_id=277460)
+- Added [Reduced Glow FX SE](https://www.nexusmods.com/skyrimspecialedition/mods/20691?tab=files&file_id=69863)
+- Added [Refracting Ice Form Debris](https://www.nexusmods.com/skyrimspecialedition/mods/18384?tab=files&file_id=162617)
+- Added [Remove Ugly Torch Glow Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/26687?tab=files&file_id=96296)
+- Added [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files&file_id=244474)
+- Added [Simple Offence Suppression - Block Friendly Fire Combat Only](https://www.nexusmods.com/skyrimspecialedition/mods/62122?tab=files&file_id=257473)
+- Added [Simple Offence Suppression MCM - Block Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/41774?tab=files&file_id=167301)
+- Added [Skygazer Moons SSE - Masser and Secunda HD Textures](https://www.nexusmods.com/skyrimspecialedition/mods/32057?tab=files&file_id=121175)
+- Added [Skyrim Textures Redone - Enhanced Night Sky](https://www.nexusmods.com/skyrimspecialedition/mods/5561?tab=files&file_id=12316)
+- Added [Sounds of Skyrim Complete SE](https://www.nexusmods.com/skyrimspecialedition/mods/8286?tab=files&file_id=252787)
+- Added [Thunderbolt - HD Lightning](https://www.nexusmods.com/skyrimspecialedition/mods/46024?tab=files&file_id=187303)
+- Added [Unofficial Skyrim Modders Patch - USMP - Patch Emporium](https://www.nexusmods.com/skyrimspecialedition/mods/50813?tab=files&file_id=296708)
+- Added [Use Master Strange Runes on Mysticism Master Rituals](https://www.nexusmods.com/skyrimspecialedition/mods/67894?tab=files&file_id=283027)
+- Added [Vanilla hair remake](https://www.nexusmods.com/skyrimspecialedition/mods/63979?tab=files&file_id=301288)
+- Added [Vera's Female Skeleton](https://www.nexusmods.com/skyrimspecialedition/mods/59284?tab=files&file_id=263087)
 - Removed [3BA Vanilla Armors - No Rim Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/59268?tab=files&file_id=297111)
 - Removed [Artesian Cloaks of Skyrim - Cloaks and Capes](https://www.nexusmods.com/skyrimspecialedition/mods/17416?tab=files&file_id=58844)
 - Removed [Artesian Cloaks of Skyrim - Cloaks of Skyrim Retextured](https://www.nexusmods.com/skyrimspecialedition/mods/17416?tab=files&file_id=171756)
@@ -56,7 +91,6 @@
 - Removed [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099?tab=files&file_id=292326)
 - Removed [Skyland Night Sky](https://www.nexusmods.com/skyrimspecialedition/mods/56368?tab=files&file_id=231959)
 - Removed [Voltage](https://www.nexusmods.com/skyrimspecialedition/mods/15565?tab=files&file_id=52703)
-- Updated []()
 
 
 ## 0.5.0
