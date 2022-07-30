@@ -19,7 +19,6 @@ View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
-    - [Installing the ENB](#installing-the-enb)
   - [Playing the Modist](#playing-the-list)
     - [Starting up the List](#starting-up-the-list)
     - [Starting the Game](#starting-the-game)
