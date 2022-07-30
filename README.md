@@ -117,6 +117,7 @@ Make sure the dropdown box on the right is set to `Skyrim Together Reborn` and p
 ### Starting the Game
 SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953). You are free to either play through the introduction or skip it.
 
+After creating your character and exiting RaceMenu, your character may look incorrect. Simply exit to the main menu and press `Continue` to fix this.
 
 ### Important Mod-Added Controls
 - Skyrim Together Menu: Right Control
@@ -182,7 +183,7 @@ If you've already done this once, you can skip to the [next section](#downloadin
 
 ### Updating the Modlist
 **Notes**:
-- Any mods you have added yourself will be deleted when updating.
+- Any mods you have added yourself will be deleted when updating. Add `[NoDelete]` to the front of the mod's filename to prevent Wabbajack from deleting it.
 - Unless explicitly stated, updates to the modlist should be save-compatible.
 
 Before updating, back up your saves (located in `SSS\profiles\Spack's Sexy Skyrim\saves`) to a separate folder.
@@ -201,17 +202,13 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 - The list uses NAT's weather, so you can easily replace the included ENB with an preset that is made for its weathers, such as [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141), [Berserkyr](https://www.nexusmods.com/skyrimspecialedition/mods/62381), or [Cabbage](https://drive.google.com/file/d/1zUtXwRXjvgRfO3R7xN-uqSoC17qS-Lxc/view).
 
 #### Various character features (e.g. bodypaints) do not sync correctly
-- Only vanilla preset colors will sync correctly for skin , hair, etc. Overlays in the Makeup tab of RaceMenu will sync and can be a custom color. However, overlays in the other tabs (facepaint, bodypaint, etc) will not sync at all and never will because they are added by RaceMenu, and ST has no way to sync these.
-- TL;DR: Only choose preset colors for skin, hair, etc. Make sure all overlays (makeup, warpaints) are in RaceMenu's Makeup tab. (they can be a custom color)
+- Only choose preset colors for skin, hair, etc. Make sure all overlays (makeup, warpaints) are in RaceMenu's Makeup tab. They can be a custom color.
 
 #### The game crashes on startup!
 - Once the game window opens, don't tab out until you get to the main menu. It doesn't like that.
 
-#### My character's hair/warpaint/skin/virginity/etc disappeared
-- Save, quit to menu, and reload
-
 #### X outfit has clipping issues!
-- I know and I care too, but this isn't my problem to fix. Feel free to let me know of issues with outfits OTHER THAN clipping.
+- I know, and I care too, but this isn't my problem to fix. Feel free to let me know of issues with outfits OTHER THAN clipping.
 
 
 ## Removing the Modlist
