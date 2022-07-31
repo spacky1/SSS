@@ -20,6 +20,23 @@
 
 -->
 
+## 0.6.1
+
+**Build at:** `7/30/2022 7:42 PM`
+
+**Save compatible**
+
+**Info**:
+
+- Tweaked ENB brightness and color grading
+- Fixed some settings inis
+- Reworked Skyrim.ini and SkyrimPrefs.ini graphics settings to fix shadow issues
+
+**Download Changes**:
+
+- None
+
+
 ## 0.6.0
 
 **Build at:** `7/29/2022 4:53 PM`
@@ -144,6 +161,7 @@
 - Updated [Security Overhaul SKSE - Add-ons](https://www.nexusmods.com/skyrimspecialedition/mods/59529?tab=files&file_id=297355)
 - Updated [Security Overhaul SKSE - Lock Variations](https://www.nexusmods.com/skyrimspecialedition/mods/58224?tab=files&file_id=297358)
 - Updated [Steel Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59445?tab=files&file_id=294117)
+
 
 ## 0.4.1
 
