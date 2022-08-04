@@ -20,6 +20,43 @@
 
 -->
 
+## 0.6.2
+
+**Build at:** `WIP`
+
+**Should be save compatible**
+
+**Info**:
+
+- 
+
+**Download Changes**:
+
+- Added []()
+- Removed []()
+- Removed [BLOODSTONE CHALICE REBORN](https://www.nexusmods.com/skyrim/mods/63551?tab=files&file_id=1000152104)
+- Removed [Daedric Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/67389?tab=files&file_id=293495)
+- Removed [Dwarven Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/65884?tab=files&file_id=286965)
+- Removed [Ebony Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/60942?tab=description)
+- Removed [Elder Souls - Sweep Attacks Standalone SE](https://www.nexusmods.com/skyrimspecialedition/mods/47395?tab=files&file_id=192986)
+- Removed [Elder Souls Sweep Attacks - No Sneak Attack](https://www.nexusmods.com/skyrimspecialedition/mods/50250?tab=files&file_id=229603)
+- Removed [Elven Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59200?tab=files&file_id=287541)
+- Removed [Glass Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/60257?tab=files&file_id=286977)
+- Removed [Iron Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59113?tab=files&file_id=293522)
+- Removed [Nord Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59638?tab=files&file_id=287526)
+- Removed [Nordic Carved Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/69934?tab=files&file_id=292417)
+- Removed [Orcish Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59907?tab=files&file_id=294122)
+- Removed [Recoil On Objects](https://www.nexusmods.com/skyrimspecialedition/mods/70719?tab=files&file_id=296100)
+- Removed [Simple Offence Suppression - Block Friendly Fire Combat Only](https://www.nexusmods.com/skyrimspecialedition/mods/62122?tab=files&file_id=257473)
+- Removed [Simple Offence Suppression MCM - Block Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/41774?tab=files&file_id=167301)
+- Removed [SOS Light Version with Tempered Skins for Males SSE](https://www.loverslab.com/files/file/3692-sos-light-version-with-tempered-skins-for-males-sse/)
+- Removed [Steel Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59445?tab=files&file_id=294117)
+- Removed [Tempered Skins for Males - SOS Light Version](https://www.nexusmods.com/skyrimspecialedition/mods/7902?tab=files&file_id=162986)
+- Updated []()
+- Updated [3BA Vanilla Clothes and Armor](https://www.nexusmods.com/skyrimspecialedition/mods/51610?tab=files&file_id=301349)
+- Updated [8K Night Skies - Stars and Galaxies - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/20301?tab=files&file_id=261146)
+
+
 ## 0.6.1
 
 **Build at:** `7/30/2022 7:42 PM`
