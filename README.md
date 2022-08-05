@@ -34,7 +34,7 @@ View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-
 ## Preamble
 Spack's Sexy Skyrim (hereinafter referred to as SSS) is the modlist ever.
 
-![image](images/SSS - NAT.webp)
+![image](images/SSS%20-%20NAT.webp)
 
 If you're new to installing a Wabbajack modlist or Skyrim modding in general:
 	**Please, please, please read this guide in its entirety.**
