@@ -36,9 +36,9 @@ Spack's Sexy Skyrim (hereinafter referred to as SSS) is the modlist ever.
 
 ![image](images/SSS-NAT.webp)
 
-If you're new to installing a Wabbajack modlist or Skyrim modding in general:
+**If you're new to installing a Wabbajack modlist or Skyrim modding in general:**
 
-	**Please, please, please read this guide in its entirety.**
+	Please, please, please read this guide in its entirety.
 
 
 ## Requirements
