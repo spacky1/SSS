@@ -24,7 +24,7 @@ View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-
     - [Starting the Game](#starting-the-game)
     - [Important Mod-Added Controls](#important-mod-added-controls)
   - [Updating](#updating)
-    - [Updating Skyrim Together](#updating-skyrim-together)
+    <!--- [Updating Skyrim Together](#updating-skyrim-together)-->
     - [Updating the Modlist](#updating-the-modlist)
   - [FAQ](#faq)
   - [Removing the Modlist](#removing-the-modlist)
@@ -147,11 +147,11 @@ There are two important updates you should be aware of:
 - Updates to Skyrim Together. I recommend always having the latest version.
 - Updates to the modlist itself. These are not required, but may have vital fixes; check the [changelog](CHANGELOG.md).
 
-
+<!--
 ### Updating Skyrim Together
 If there is an update to ST, it's very easy to apply yourself and is much less time-consuming to update than installing the latest list.
 
-<!--
+
 #### Enabling MO2 Downloads
 If you've already done this once, you can skip to the [next section](#downloading-and-updating-skyrim-together).
 
@@ -162,7 +162,7 @@ If you've already done this once, you can skip to the [next section](#downloadin
 2. In the Settings window, go to the "Nexus" tab and click `Associate with "Download with manager" links`.
 
 ![image](images/st-step-2.png)
--->
+
 
 #### Downloading and Updating Skyrim Together
 1. Go to the [Skyrim Together modpage](https://www.nexusmods.com/skyrimspecialedition/mods/69993?tab=files) and click the `Mod Manager Download` button under "Main Files".
@@ -186,7 +186,7 @@ If you've already done this once, you can skip to the [next section](#downloadin
 ![image](images/st-step-7.png)
 
 6. You're done!
-
+-->
 
 ### Updating the Modlist
 **Notes**:
