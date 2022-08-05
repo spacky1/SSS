@@ -204,9 +204,9 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 - Enable nudity by expanding the `Nudity` separator in the left pane of MO2, and activating the mod. It is simply a mesh replacer.
 
 #### I don't like the included ENB.
-- The list uses NAT's weather, so you can easily replace the included ENB with an preset that is made for its weathers, such as [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141), [Berserkyr](https://www.nexusmods.com/skyrimspecialedition/mods/62381), or [Cabbage](https://drive.google.com/file/d/1zUtXwRXjvgRfO3R7xN-uqSoC17qS-Lxc/view).
-- ENB Organizer is included to help you manage and try out different presets. You may launch it either from its folder in `SSS\tools` or through MO2.
-- I highly recommend Cabbage; so much so that I included some fixes and tweaks in ENB Organizer. Simply install Cabbage without the ReShade and let my files overwrite.
+- The list uses NAT's weather, so you can easily replace the included ENB with an preset that is made for its weathers, such as [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141) or [Cabbage](https://drive.google.com/file/d/1zUtXwRXjvgRfO3R7xN-uqSoC17qS-Lxc/view).
+- Several presets are already included, and ENB Organizer is included to help you manage and try out different presets. You may launch it either from `SSS\tools\ENB Organizer`, or through MO2. To switch presets, open the presets tab. First disable the active preset, then enable the desired one.
+- I highly recommend Cabbage; so much so that I included some fixes and tweaks in ENB Organizer. Simply install Cabbage by navigating to `SSS\tools\ENB Organizer\Games\SkyrimSE\Presets` and copying JUST the "enbseries" folder from the Cabbage archive into "Spack's Cabbage" and/or "Spack's Cabbage - Performance". **Click skip when prompted – do not overwrite.**
 
 #### Various character features (e.g. bodypaints) do not sync correctly
 - Only choose preset colors for skin, hair, etc. Make sure all overlays (makeup, warpaints) are in RaceMenu's Makeup tab. They can be a custom color.
