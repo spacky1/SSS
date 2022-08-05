@@ -55,7 +55,6 @@
 - Removed [Vera's Female Skeleton](https://www.nexusmods.com/skyrimspecialedition/mods/59284?tab=files&file_id=263087)
 - Updated []()
 - Updated [3BA Vanilla Clothes and Armor](https://www.nexusmods.com/skyrimspecialedition/mods/51610?tab=files&file_id=301349)
-- Updated [8K Night Skies - Stars and Galaxies - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/20301?tab=files&file_id=261146)
 - Updated [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174?tab=files&file_id=296254)
 - Updated [CBBE 3BA (3BBB)](https://www.nexusmods.com/skyrimspecialedition/mods/30174?tab=files&file_id=301086)
 - Updated [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980?tab=files&file_id=304408)
