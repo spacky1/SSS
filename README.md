@@ -1,7 +1,7 @@
 # SSS
 A Skyrim Together Wabbajack Modlist
 
-![image](images/Splash.png)
+![image](images/splash-new.png)
 
 View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-sexy-skyrim).
 
