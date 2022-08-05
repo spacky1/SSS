@@ -191,9 +191,7 @@ If you've already done this once, you can skip to the [next section](#downloadin
 ### Updating the Modlist
 **Notes**:
 - Any mods you have added yourself will be deleted when updating. Add `[NoDelete]` to the front of the mod's filename to prevent Wabbajack from deleting it.
-- Unless explicitly stated, updates to the modlist should be save-compatible.
-
-Before updating, back up your saves (located in `SSS\profiles\Spack's Sexy Skyrim\saves`) to a separate folder.
+- Your saves will not be deleted, and unless explicitly stated, updates to the modlist should be save-compatible.
 
 Updating is like re-installing the list. Simply download the new .wabbajack file and open it. Make sure your paths are the same and tick the `overwrite existing modlist` button. Once the install is finished, you may copy your saves over.
 
@@ -230,5 +228,5 @@ Everything in the modlist is self-contained. Simply delete the modlist folder, a
 ## Credits and Thanks
 - _YOU_ for reading this. Thank you!
 - Althro and the Animonculory Team for AVO, the graphical foundation of this modlist. Let's be real here: they did 99% of the work for me.
-- A couple of my friends: one for making a ton of character presets, and the other for helping me playtest a bit.
+- A couple of my friends: one for devoting many hours to making RaceMenu presets, and the other for helping me playtest a bit.
 - The bear for
