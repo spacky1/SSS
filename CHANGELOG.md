@@ -22,18 +22,75 @@
 
 ## 0.6.2
 
-**Build at:** `WIP`
+**Build at:** `8/5/2022 7:18 AM`
 
 **Should be save compatible**
 
 **Info**:
 
 - Regenerated Bodyslide for the 100th time
+- Fixed cloud over-brightness
+- Fixed some meshes
+- Fixed bloom
+- Added many new ENB presets to ENB Organizer
+- More player customization options
+- Reworked armor replacers
+- Added RaceMenu presets
+- Reworked Immersive Equipment Displays positioning
+- Some combat tweaks
+- Updated some mods
+- Replaced more textures
+- Yeah
 
 **Download Changes**:
 
-- Added []()
-- Removed []()
+- Added [aMidianBorn Book of Silence SE -- ARMORS](https://www.nexusmods.com/skyrimspecialedition/mods/35382?tab=files&file_id=148040)
+- Added [aMidianBorn Book of Silence SE -- DRAGONBORN](https://www.nexusmods.com/skyrimspecialedition/mods/35382?tab=files&file_id=148071)
+- Added [aMidianBorn Book of Silence SE -- UNIQUE ITEMS](https://www.nexusmods.com/skyrimspecialedition/mods/35382?tab=files&file_id=148078)
+- Added [aMidianBorn Book of Silence SE -- WEAPONS](https://www.nexusmods.com/skyrimspecialedition/mods/35382?tab=files&file_id=148042)
+- Added [Armor Mesh Fixes SE - Blades Helmet - aMidianBorn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/39704?tab=files&file_id=157119)
+- Added [Ancient Dwemer Metal - My patches - ElSopa - Quivers Redone SE](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files&file_id=274720)
+- Added [ApachiiSkyHair](https://www.nexusmods.com/skyrimspecialedition/mods/2014?tab=files&file_id=27721)
+- Added [ApachiiSkyHairFemale](https://www.nexusmods.com/skyrimspecialedition/mods/2014?tab=files&file_id=138627)
+- Added [Awesome Sigil Stones](https://www.nexusmods.com/skyrimspecialedition/mods/67112?tab=files&file_id=279685)
+- Added [Awesome Sigil Stones - ENB Light PATCH](https://www.nexusmods.com/skyrimspecialedition/mods/67112?tab=files&file_id=279687)
+- Added [Battle Hardened Warpaints SE](https://www.nexusmods.com/skyrimspecialedition/mods/17231?tab=files&file_id=82758)
+- Added [Beautiful Sigils of Shalidor - 8k 4k 2k](https://www.nexusmods.com/skyrimspecialedition/mods/66598?tab=files&file_id=277813)
+- Added [Berserker - A God of War Font](https://www.nexusmods.com/skyrimspecialedition/mods/71646?tab=files&file_id=301541)
+- Added [Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381?tab=files&file_id=302859)
+- Added [Berserkyr ENB - Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/62381?tab=files&file_id=302860)
+- Added [Book Covers Skyrim - Normal map FIX](https://www.nexusmods.com/skyrimspecialedition/mods/68934?tab=files&file_id=288025)
+- Added [CBBE Presets Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/11229?tab=files&file_id=49283)
+- Added [CBPC Equipment physics SE and AE](https://www.nexusmods.com/skyrimspecialedition/mods/58990?tab=files&file_id=250142)
+- Added [Dragon Mound Dirt FIX](https://www.nexusmods.com/skyrimspecialedition/mods/69119?tab=files&file_id=289629)
+- Added [Duellum - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/65268?tab=files&file_id=271404)
+- Added [ElSopa - Quivers Redone SE](https://www.nexusmods.com/skyrimspecialedition/mods/65921?tab=files&file_id=274522)
+- Added [ElSopa - Quivers Redone SE HOTFIX](https://www.nexusmods.com/skyrimspecialedition/mods/65921?tab=files&file_id=274530)
+- Added [GRIM ENB](https://www.nexusmods.com/skyrimspecialedition/mods/59679?tab=files&file_id=273846)
+- Added [HG Hairdos SE](https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A)
+- Added [Immersive Equipment Displays - CBPC Horse Gear](https://www.nexusmods.com/skyrimspecialedition/mods/71658?tab=files&file_id=300464)
+- Added [JS Bloodstone Chalice SE](https://www.nexusmods.com/skyrimspecialedition/mods/66038?tab=files&file_id=282594)
+- Added [JS Emissive Eyes SE - Skeleton Replacer HD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/60350?tab=files&file_id=250329)
+- Added [JS Initiate's Ewer SE](https://www.nexusmods.com/skyrimspecialedition/mods/66242?tab=files&file_id=303364)
+- Added [Kala Orsimer Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/42050?tab=files&file_id=169633)
+- Added [Kala's Eyes- Beast Race Edition Khajiit Argonian](https://www.nexusmods.com/skyrimspecialedition/mods/42298?tab=files&file_id=169832)
+- Added [Kala's Eyes- Werewolf Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/42298?tab=files&file_id=192137)
+- Added [Kala's Eyes Elf Edition](https://www.nexusmods.com/skyrimspecialedition/mods/42050?tab=files&file_id=170261)
+- Added [Kala's Vampire Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/42099?tab=files&file_id=170149)
+- Added [Kyoe's Bang'n Brows](https://www.nexusmods.com/skyrimspecialedition/mods/13630?tab=files&file_id=39451)
+- Added [Lamenthia's Marks of Beauty](https://www.nexusmods.com/skyrimspecialedition/mods/49845?tab=files&file_id=203299)
+- Added [Maevan2's Eye Brows SE](https://www.nexusmods.com/skyrimspecialedition/mods/26881?tab=files&file_id=96994)
+- Added [Misc Effects ENB Light - ElSopa Quivers Redone](https://www.nexusmods.com/skyrimspecialedition/mods/65070?tab=files&file_id=274744)
+- Added [Missile's Immersive Equipment Display Presets](https://www.nexusmods.com/skyrimspecialedition/mods/67770?tab=files&file_id=283001)
+- Added [NAT-ENB GRIM patch](https://www.nexusmods.com/skyrimspecialedition/mods/59679?tab=files&file_id=273845)
+- Added [Norse God -- HIMBO Bodyslide Preset](https://www.nexusmods.com/skyrimspecialedition/mods/54296?tab=files&file_id=222828)
+- Added [Particle Lights for ENB - Ice Torches](https://www.nexusmods.com/skyrimspecialedition/mods/67663?tab=files&file_id=282007)
+- Added [Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347?tab=files&file_id=304481)
+- Added [RaceMenu Overlay Compilation](https://www.nexusmods.com/skyrim/mods/48705?tab=files&file_id=1000086793)
+- Added [Recoil Redefined](https://www.nexusmods.com/skyrimspecialedition/mods/69936?tab=files&file_id=292432)
+- Added [Schlongs Of Skyrim Light SE](https://www.loverslab.com/files/file/3705-schlongs-of-skyrim-light-se/)
+- Added [Shield Of Stamina - Blocking Redux](https://www.nexusmods.com/skyrimspecialedition/mods/62137?tab=files&file_id=265716)
+- Added [Xara's Makeup and Warpaints SE](https://www.nexusmods.com/skyrimspecialedition/mods/13787?tab=files&file_id=72236)
 - Removed [BLOODSTONE CHALICE REBORN](https://www.nexusmods.com/skyrim/mods/63551?tab=files&file_id=1000152104)
 - Removed [Daedric Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/67389?tab=files&file_id=293495)
 - Removed [Dwarven Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/65884?tab=files&file_id=286965)
@@ -54,7 +111,6 @@
 - Removed [Steel Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59445?tab=files&file_id=294117)
 - Removed [Tempered Skins for Males - SOS Light Version](https://www.nexusmods.com/skyrimspecialedition/mods/7902?tab=files&file_id=162986)
 - Removed [Vera's Female Skeleton](https://www.nexusmods.com/skyrimspecialedition/mods/59284?tab=files&file_id=263087)
-- Updated []()
 - Updated [3BA Vanilla Clothes and Armor](https://www.nexusmods.com/skyrimspecialedition/mods/51610?tab=files&file_id=301349)
 - Updated [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174?tab=files&file_id=296254)
 - Updated [CBBE 3BA (3BBB)](https://www.nexusmods.com/skyrimspecialedition/mods/30174?tab=files&file_id=301086)
@@ -256,7 +312,7 @@
 - Added [Action Based Projectiles Patches for Random Mods - Immersive Sounds Compendium Patch](https://www.nexusmods.com/skyrimspecialedition/mods/54871?tab=files&file_id=225203)
 - Added [Action Based Projectiles - Mysticism Patch](https://www.nexusmods.com/skyrimspecialedition/mods/55122?tab=files&file_id=273338)
 - Added [Animation Motion Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/50258?tab=files&file_id=260538)
-- Added [ApachiiSkyHair SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2014?tab=files&file_id=166457)
+- Added [ApachiiSkyHairMale](https://www.nexusmods.com/skyrimspecialedition/mods/2014?tab=files&file_id=166457)
 - Added [ApachiiSkyHairMale_v_1_3_Hair_62_new](https://www.nexusmods.com/skyrimspecialedition/mods/2014?tab=files&file_id=167752)
 - Added [Around the Fire - Skyrim Fan-Made Music](https://www.nexusmods.com/skyrimspecialedition/mods/36144?tab=files&file_id=140654)
 - Added [Artesian Cloaks of Skyrim - Cloaks and Capes](https://www.nexusmods.com/skyrimspecialedition/mods/17416?tab=files&file_id=58844)
