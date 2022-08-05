@@ -28,7 +28,7 @@
 
 **Info**:
 
-- 
+- Regenerated Bodyslide for the 100th time
 
 **Download Changes**:
 
@@ -52,9 +52,19 @@
 - Removed [SOS Light Version with Tempered Skins for Males SSE](https://www.loverslab.com/files/file/3692-sos-light-version-with-tempered-skins-for-males-sse/)
 - Removed [Steel Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59445?tab=files&file_id=294117)
 - Removed [Tempered Skins for Males - SOS Light Version](https://www.nexusmods.com/skyrimspecialedition/mods/7902?tab=files&file_id=162986)
+- Removed [Vera's Female Skeleton](https://www.nexusmods.com/skyrimspecialedition/mods/59284?tab=files&file_id=263087)
 - Updated []()
 - Updated [3BA Vanilla Clothes and Armor](https://www.nexusmods.com/skyrimspecialedition/mods/51610?tab=files&file_id=301349)
 - Updated [8K Night Skies - Stars and Galaxies - Cathedral Concept](https://www.nexusmods.com/skyrimspecialedition/mods/20301?tab=files&file_id=261146)
+- Updated [Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174?tab=files&file_id=296254)
+- Updated [CBBE 3BA (3BBB)](https://www.nexusmods.com/skyrimspecialedition/mods/30174?tab=files&file_id=301086)
+- Updated [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980?tab=files&file_id=304408)
+- Updated [Enemy (R)Evolution of Skyrim - EEOS - Spell Perk Item Distributor Addon](https://www.nexusmods.com/skyrimspecialedition/mods/37228?tab=files&file_id=303325)
+- Updated [NAT.ENB - ENB PRESET](https://www.nexusmods.com/skyrimspecialedition/mods/27141?tab=files&file_id=304265)
+- Updated [NAT.ENB - ESP PLUGIN](https://www.nexusmods.com/skyrimspecialedition/mods/27141?tab=files&file_id=304264)
+- Updated [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614?tab=files&file_id=303929)
+- Updated [TrueHUD - HUD Additions](https://www.nexusmods.com/skyrimspecialedition/mods/62775?tab=files&file_id=304461)
+- Updated [Vibrant weapons - Fire Frost Shock](https://www.nexusmods.com/skyrimspecialedition/mods/40087?tab=files&file_id=304180)
 
 
 ## 0.6.1
