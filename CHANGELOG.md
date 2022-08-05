@@ -42,6 +42,7 @@
 - Removed [Elder Souls Sweep Attacks - No Sneak Attack](https://www.nexusmods.com/skyrimspecialedition/mods/50250?tab=files&file_id=229603)
 - Removed [Elven Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59200?tab=files&file_id=287541)
 - Removed [Glass Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/60257?tab=files&file_id=286977)
+- Removed [God Of War 2018 Font Replacement SSE](https://www.nexusmods.com/skyrimspecialedition/mods/18800?tab=files&file_id=61203)
 - Removed [Iron Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59113?tab=files&file_id=293522)
 - Removed [Nord Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/59638?tab=files&file_id=287526)
 - Removed [Nordic Carved Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/69934?tab=files&file_id=292417)
