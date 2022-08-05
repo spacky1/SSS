@@ -34,6 +34,8 @@ View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-
 ## Preamble
 Spack's Sexy Skyrim (hereinafter referred to as SSS) is the modlist ever.
 
+![image](images/SSS - NAT.webp)
+
 If you're new to installing a Wabbajack modlist or Skyrim modding in general:
 	**Please, please, please read this guide in its entirety.**
 
@@ -51,7 +53,7 @@ If you're new to installing a Wabbajack modlist or Skyrim modding in general:
 
 
 ### Disk Space
-  - Space required: **approx. 163 GB** (including downloads)
+  - Space required: **approx. 170 GB** (including downloads)
   - I recommend having the downloads folder on an SSD, as it will drastically speed up the installation.
 
 
@@ -66,8 +68,8 @@ Prior to installing, complete the following steps.
 2. **Fully uninstall Skyrim** by deleting the Skyrim Special Edition folder in Steam and the Skyrim Special Edition folder inside `Documents\My Games`.
 3. Reinstall Skyrim **outside of a Windows system-managed folder. (e.g. Desktop, Downloads)**. Somewhere like `C:\Games` is a good location. I recommend using [this program](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to easily set up a new Steam library location.
 4. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-5. Start the game once and let it do the graphics check. Do not worry about the settings as they will be replaced during installation.
-6. Exit and proceed with installation once you've reached the main menu.
+5. Start the game's launcher and let it do the graphics check. Do not worry about the settings as they will be replaced during installation.
+6. Start the game. Once you've reached the main menu, exit and proceed with installation. You do not need to download any of the CC content.
 
 
 ### Wabbajack Installation
@@ -80,10 +82,10 @@ Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wa
 Downloading and installing the modlist can take a while depending on your internet speed and hardware. To install SSS, complete the following steps.
 
 1. [Grab the latest version of the modlist from here.](/../../releases/latest) You only need to download the .wabbajack file. 
-2. Open the downloaded file. Wabbajack should open.
+2. Open the .wabbajack file. Wabbajack should open.
 3. Set the Installation Location to be somewhere like `C:\SSS`. **Do not install it into a Windows system-managed folder. (e.g. Desktop, Downloads)**
 4. The Download Location will autofill, but you are free to set a custom location. (on another drive, for example)
-5. Press the button to begin the install. Feel free to go do something else while WJ does its thing.
+5. Press the button to begin the install. If you have Nexus Premium, feel free to go do something else while WJ does its thing. If not, you will have to start the download for each mod manually.
 6. If the installation is successful, move on to [Post-Installation](#post-installation). If not...
 
 
@@ -92,6 +94,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download X file:
 	- Big files can fail to download due to connection issues. You can either try running Wabbajack again or download the file manually and place it in the downloads folder.
+	- If the problematic file is from MEGA or LoversLab, I would recommend downloading it by opening the log and locating its URL.
 
 - Wabbajack could not find my game folder:
 	- Either buy the game or re-read the [Pre-Installation](#pre-installation) step.
@@ -117,6 +120,8 @@ Make sure the dropdown box on the right is set to `Skyrim Together Reborn` and p
 ### Starting the Game
 SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953). You are free to either play through the introduction or skip it.
 
+
+
 After creating your character and exiting RaceMenu, your character may look incorrect. Simply exit to the main menu and press `Continue` to fix this.
 
 ### Important Mod-Added Controls
@@ -125,12 +130,13 @@ After creating your character and exiting RaceMenu, your character may look inco
 - Lock-On: Middle Mouse Button
 - Toggle UI: X
 - Screenshot: F1 (screenshots are saved to the Game Root folder)
+- FPS Counter: F2
 - ENB Menu: F11
 - Toggle DOF: F10
 - Health Potion Hotkey: <
 - Stamina Potion Hotkey: >
 - Magicka Potion Hotkey: /
-- Simplest Horses Menu: H
+- Simplest Horses: H
 
 Phew. You made it! ***Now go play your dang videogame.***
 
@@ -200,15 +206,20 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 
 #### I don't like the included ENB.
 - The list uses NAT's weather, so you can easily replace the included ENB with an preset that is made for its weathers, such as [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141), [Berserkyr](https://www.nexusmods.com/skyrimspecialedition/mods/62381), or [Cabbage](https://drive.google.com/file/d/1zUtXwRXjvgRfO3R7xN-uqSoC17qS-Lxc/view).
+- ENB Organizer is included to help you manage and try out different presets. You may launch it either from its folder in `SSS\tools` or through MO2.
+- I highly recommend Cabbage; so much so that I included some fixes and tweaks in ENB Organizer. Simply install Cabbage without the ReShade and let my files overwrite.
 
 #### Various character features (e.g. bodypaints) do not sync correctly
 - Only choose preset colors for skin, hair, etc. Make sure all overlays (makeup, warpaints) are in RaceMenu's Makeup tab. They can be a custom color.
 
-#### The game crashes on startup!
+#### When I start the game, it hangs on the loading screen
 - Once the game window opens, don't tab out until you get to the main menu. It doesn't like that.
 
 #### X outfit has clipping issues!
 - I know, and I care too, but this isn't my problem to fix. Feel free to let me know of issues with outfits OTHER THAN clipping.
+
+#### Save games show up as corrupt
+- Just Skyrim Together things. Restart the game and they should no longer be "corrupt".
 
 
 ## Removing the Modlist
@@ -216,6 +227,7 @@ Everything in the modlist is self-contained. Simply delete the modlist folder, a
 
 
 ## Credits and Thanks
-- _YOU_ for reading this.
+- _YOU_ for reading this. Thank you!
 - Althro and the Animonculory Team for AVO, the graphical foundation of this modlist. Let's be real here: they did 99% of the work for me.
+- A couple of my friends: one for making a ton of character presets, and the other for helping me playtest a bit.
 - The bear for
