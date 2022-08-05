@@ -94,7 +94,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download X file:
 	- Big files can fail to download due to connection issues. You can either try running Wabbajack again or download the file manually and place it in the downloads folder.
-	- If the problematic file is from MEGA or LoversLab, I would recommend downloading it by opening the log and locating its URL.
+	- If the problematic file is from MEGA or LoversLab, I would recommend downloading it by opening the log and locating its URL at the bottom of the file. Manually place the file in the modlist's downloads folder **WITHOUT EXTRACTING**.
 
 - Wabbajack could not find my game folder:
 	- Either buy the game or re-read the [Pre-Installation](#pre-installation) step.
