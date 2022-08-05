@@ -3,6 +3,8 @@ A Skyrim Together Wabbajack Modlist
 
 ![image](images/splash-new.png)
 
+<img src="https://raw.githubusercontent.com/spacky1/SSS/main/images/Splash-old.png" width="72px" />
+
 View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-sexy-skyrim).
 
 
