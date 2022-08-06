@@ -229,6 +229,6 @@ Everything in the modlist is self-contained. Simply delete the modlist folder, a
 - _YOU_ for reading this. Thank you!
 - Althro and the Animonculory Team for AVO, the graphical foundation of this modlist. Let's be real here: they did 99% of the work for me.
 - A couple of my friends: one for devoting many hours to making RaceMenu presets, and the other for helping me playtest a bit.
-- The bear for
+- The bear for its unyielding dedication to my cause
 
 <img src="https://raw.githubusercontent.com/spacky1/SSS/main/images/Splash-old.png" width="144px"/>
