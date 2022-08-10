@@ -1,5 +1,6 @@
 # Changelog
 
+- [0.6.4](#064)
 - [0.6.3](#063)
 - [0.6.2](#062)
 - [0.6.1](#061)
@@ -8,6 +9,48 @@
 - [0.4.1](#041)
 - [0.4.0](#040)
 - [0.3.2](#032)
+- [0.3.1](#031)
+- [0.3.0](#030)
+- [0.2.0](#020)
+- [0.1.0](#010)
+
+
+## 0.6.4
+
+**Build at:** `8/10/2022 10:07:20 AM`
+
+**Should be save compatible hopefully idk**
+
+**Info**:
+
+- Download Size change: -188.4MB (Total: 66.5GB)
+- Install Size change: -56.7MB (Total: 112.3GB)
+- Screen blood gone for good
+- Tweaked ENB brightness/bloom
+- Removed all SPID potion distribution to hopefully fix the most frequent culprit of CTDs
+- More conflict resolution because gosh golly do I love xEdit. Sounds should now sound whoomier and booms should now boom boomier
+- RIP Strange Runes. Couldn't get it to play nice
+- Tweaked Precision to make short enemies less frustrating
+- Removed some leftover downloads that I forgot about. Oops
+- Fixed more texture conflicts
+- Yeah
+
+**Download Changes**:
+
+- Added [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=64692)
+- Added [SM Essential Player SE](https://www.nexusmods.com/skyrimspecialedition/mods/47426/?tab=files&file_id=223429)
+- Removed [Adamant Perks For NPCS](https://www.nexusmods.com/skyrimspecialedition/mods/47484/?tab=files&file_id=301826)
+- Removed [Enemy (R)Evolution of Skyrim - EEOS - Spell Perk Item Distributor Addon](https://www.nexusmods.com/skyrimspecialedition/mods/37228/?tab=files&file_id=303325)
+- Removed [Enhanced Blood Textures SE - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/56560/?tab=files&file_id=249659)
+- Removed [JS Emissive Eyes SE](https://www.nexusmods.com/skyrimspecialedition/mods/60108/?tab=files&file_id=250196)
+- Removed [JS Emissive Eyes SE - Skeleton Replacer HD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/60350/?tab=files&file_id=250329)
+- Removed [Mysticism Spells For Npcs](https://www.nexusmods.com/skyrimspecialedition/mods/53682/?tab=files&file_id=301835)
+- Removed [No Camera Collision (..no Fade out any more)](https://www.nexusmods.com/skyrimspecialedition/mods/19310/?tab=files&file_id=62995)
+- Removed [SPID INI Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/51094/?tab=files&file_id=282507)
+- Removed [Strange Runes](https://www.nexusmods.com/skyrimspecialedition/mods/19456/?tab=files&file_id=275145)
+- Removed [Use Master Strange Runes on Mysticism Master Rituals](https://www.nexusmods.com/skyrimspecialedition/mods/67894/?tab=files&file_id=283027)
+- Removed [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489/?tab=files&file_id=300286)
+
 
 ## 0.6.3
 
@@ -17,8 +60,8 @@
 
 **Info**:
 
-- Download Size change: -402.1MB (Total: 66.7GB)
-- Install Size change: -74.3MB (Total: 112.3GB)
+- Download Size change: +402.1MB (Total: 66.7GB)
+- Install Size change: +74.3MB (Total: 112.3GB)
 - Some patches. Expect more in the near future as I work out bugs
 - Yeah
 
@@ -42,12 +85,14 @@
 
 ## 0.6.2
 
-**Build at:** `8/5/2022 7:18 AM`
+**Build at:** `8/5/2022 7:18:46 AM`
 
 **Should be save compatible**
 
 **Info**:
 
+- Download Size change: +1.7GB (Total: 66.3GB)
+- Install Size change: +3.3GB (Total: 112.3GB)
 - Regenerated Bodyslide for the 100th time
 - Fixed cloud over-brightness
 - Fixed some meshes
@@ -151,6 +196,8 @@
 
 **Info**:
 
+- Download Size change: 0B (Total: 64.6GB)
+- Install Size change: +677.1KB (Total: 109GB)
 - Tweaked ENB brightness and color grading
 - Fixed some settings inis
 - Reworked Skyrim.ini and SkyrimPrefs.ini graphics settings to fix shadow issues
@@ -162,12 +209,14 @@
 
 ## 0.6.0
 
-**Build at:** `7/29/2022 4:53 PM`
+**Build at:** `7/29/2022 4:53:14 PM`
 
 **Not save compatible!**
 
 **Info**:
 
+- Download Size change: +2.8GB (Total: 64.6GB)
+- Install Size change: +3.1GB (Total: 109GB)
 - Major ENB rework (no longer requires manual ENB download)
 - Sky & cloud textures rework
 - Visual FX addons/replaced
@@ -235,12 +284,14 @@
 
 ## 0.5.0
 
-**Build at:** `7/27/2022 10:39 PM`
+**Build at:** `7/27/2022 10:39:28 PM`
 
 **Not save compatible!**
 
 **Info**:
 
+- Download Size change: +562.5MB (Total: 61.9GB)
+- Install Size change: +1.2GB (Total: 105.9GB)
 - Regenerated bodyslide to accommodate for new meshes/textures
 - Hopefully fixed the invisible player bug
 - Tweaked combat (again)
@@ -288,12 +339,14 @@
 
 ## 0.4.1
 
-**Build at:** `7/27/2022 1:57 PM`
+**Build at:** `7/27/2022 1:57:59 PM`
 
 **Should be save compatible**
 
 **Info**:
 
+- Download Size change: -1.8MB (Total: 61.3GB)
+- Install Size change: -6.8MB (Total: 104.7GB)
 - Fixed bugged nordic catacombs candle meshes
 - Tweaked Scrambled Bugs and NPC potions settings
 - Fixed music mods merge
@@ -308,12 +361,14 @@
 
 ## 0.4.0
 
-**Build at:** `7/26/2022 3:54 PM`
+**Build at:** `7/26/2022 5:38:54 PM`
 
 **Not save compatible!**
 
 **Info:**
 
+- Download Size change: +789.4MB (Total: 61.3GB)
+- Install Size change: +2GB (Total: 104.7GB)
 - Added/replaced a lotttttttt of animations
 - More cloaks!
 - Custom hotkeys with Extended Hotkey System
@@ -428,12 +483,14 @@
 
 ## 0.3.2
 
-**Build at:** `7/23/2022 8:52 AM`
+**Build at:** `7/23/2022 8:52:52 AM`
 
 **Should be save compatible**
 
 **Info**:
 
+- Download Size change: +13.3MB (Total: 60.6GB)
+- Install Size change: +41.5MB (Total: 102.7GB)
 - Regenerated Bodyslide to replace female underwear
 - Moved some config files to `SSS - Settings` for better consistency
 - Fixed a bugged candle mesh
@@ -449,3 +506,166 @@
 - Removed [GuitarthVader's Cinematic Skyrim - A SmoothCam Preset](https://www.nexusmods.com/skyrimspecialedition/mods/45800?tab=files&file_id=186380)
 - Removed [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252?tab=files&file_id=244599)
 - Removed [SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files&file_id=181171)
+
+
+## 0.3.1
+
+**Build at:** `7/21/2022 5:41:10 PM`
+
+**Info**:
+
+- Download Size change: +7.4MB (Total: 60.5GB)
+- Install Size change: -152.7MB (Total: 102.6GB)
+
+**Download Changes**:
+
+- Added [Adamant Perks For NPCS](https://www.nexusmods.com/skyrimspecialedition/mods/47484/?tab=files&file_id=288489)
+- Added [Arctic Frost Effects Redux ISC Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57465/?tab=files&file_id=236924)
+- Added [DSI AOS ISC Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57465/?tab=files&file_id=236923)
+- Added [Enemy (R)Evolution of Skyrim - EEOS - Spell Perk Item Distributor Addon](https://www.nexusmods.com/skyrimspecialedition/mods/37228/?tab=files&file_id=189162)
+- Added [Hotkey Potions](https://www.nexusmods.com/skyrimspecialedition/mods/60243/?tab=files&file_id=283687)
+- Added [iiENB - ENB preset](https://www.nexusmods.com/skyrimspecialedition/mods/30716/?tab=files&file_id=287059)
+- Added [Immersive Sounds for Mysticism - Patch](https://www.nexusmods.com/skyrimspecialedition/mods/70291/?tab=files&file_id=294246)
+- Added [Mortal Enemies SE](https://www.nexusmods.com/skyrimspecialedition/mods/4881/?tab=files&file_id=11006)
+- Added [Mysticism Spells For Npcs](https://www.nexusmods.com/skyrimspecialedition/mods/53682/?tab=files&file_id=277105)
+- Added [NPCs use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489/?tab=files&file_id=300286)
+- Added [SPID for Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/54924/?tab=files&file_id=256720)
+- Added [SPID INI Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/51094/?tab=files&file_id=282507)
+- Added [Talkative Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/26955/?tab=files&file_id=97479)
+- Added [Talkative Dragons Audio Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/27269/?tab=files&file_id=98772)
+- Removed [Athletik Combat - Realistic Movement and Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/1151/?tab=files&file_id=30488)
+- Removed [Less Sniperlike NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/34199/?tab=files&file_id=131556)
+- Removed [Mortal Enemies SE](https://www.nexusmods.com/skyrimspecialedition/mods/4881/?tab=files&file_id=14358)
+- Removed [Project New Reign - Nemesis Unlimited Behavior Engine](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
+- Removed [XP32 Maximum Skeleton Special Extended - Fixed Scripts](https://www.nexusmods.com/skyrimspecialedition/mods/44252/?tab=files&file_id=179016)
+- Removed [XP32 Maximum Skeleton Special Extended - XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
+- Removed [XPMSSE Weapon Styles Uncloaked](https://www.nexusmods.com/skyrimspecialedition/mods/54720/?tab=files&file_id=224496)
+
+
+## 0.3.0
+
+**Build at:** `7/21/2022 12:44:25 AM`
+
+**Info**:
+
+- Download Size change: +6.4GB (Total: 60.5GB)
+- Install Size change: +7.4GB (Total: 102.8GB)
+
+**Download Changes**:
+
+- Updated [Daedric Shrines by Mandragorasprouts - Loading Screen Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/66061/?tab=files&file_id=296228)
+- Updated [Silent Skill and-or Level Up Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/16353/?tab=files&file_id=293189)
+- Removed [Caliente's Beautiful Bodies Enhancer -CBBE-](https://www.nexusmods.com/skyrimspecialedition/mods/198/?tab=files&file_id=288345)
+- Removed [Daedric Shrines by Mandragorasprouts - Loading Screen Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/66061/?tab=files&file_id=285334)
+- Removed [Dread Tentacles - HDT Enabled Hair for Argonians - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/39112/?tab=files&file_id=154363)
+- Removed [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907/?tab=files&file_id=297215)
+- Removed [Great Moders'  HDT-SMP Physics Hair  and Xing](https://www.nexusmods.com/skyrimspecialedition/mods/31405/?tab=files&file_id=232262)
+- Removed [KS Hairdos - HDT SMP (Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/31300/?tab=files&file_id=154433)
+- Removed [Silent Skill and-or Level Up Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/16353/?tab=files&file_id=293188)
+- Removed [Silent Skill and-or Level Up Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/16353/?tab=files&file_id=293207)
+- Removed [Valkyr HDT-SMP Hairstyles](https://www.nexusmods.com/skyrimspecialedition/mods/63181/?tab=files&file_id=262207)
+- Removed [Valkyr HDT-SMP Hairstyles 02](https://www.nexusmods.com/skyrimspecialedition/mods/64259/?tab=files&file_id=266906)
+- Removed [NORDIC UI - Persistent Meters](https://www.nexusmods.com/skyrimspecialedition/mods/55162/?tab=files&file_id=226425)
+- Removed [NORDIC UI - Alternate SkyHUD preset](https://www.nexusmods.com/skyrimspecialedition/mods/54159/?tab=files&file_id=222411)
+- Removed [SC - KS Hairdos Retextured](https://www.nexusmods.com/skyrimspecialedition/mods/38820/?tab=files&file_id=153215)
+- Removed [Nordic UI AE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/65334/?tab=files&file_id=271693)
+- Added [Action Based Projectiles - Dodgeable Range Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/54611/?tab=files&file_id=225377)
+- Added [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=295247)
+- Added [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=289816)
+- Added [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686/?tab=files&file_id=289851)
+- Added [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=298640)
+- Added [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=289714)
+- Added [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=215112)
+- Added [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=291831)
+- Added [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487/?tab=files&file_id=184575)
+- Added [Athletik Combat - Realistic Movement and Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/1151/?tab=files&file_id=30488)
+- Added [Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)](https://www.nexusmods.com/skyrimspecialedition/mods/36761/?tab=files&file_id=280412)
+- Added [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=143509)
+- Added [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=143478)
+- Added [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549/?tab=files&file_id=292166)
+- Added [BURP Spell Tomes Patches](https://www.nexusmods.com/skyrimspecialedition/mods/65696/?tab=files&file_id=283861)
+- Added [BURP Spell Tomes Patches](https://www.nexusmods.com/skyrimspecialedition/mods/65696/?tab=files&file_id=284188)
+- Added [Daedric Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/9530/?tab=files&file_id=26344)
+- Added [Daedric Shrines - Molag Bal](https://www.nexusmods.com/skyrimspecialedition/mods/69667/?tab=files&file_id=291257)
+- Added [Daedric Shrines - Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/70696/?tab=files&file_id=296024)
+- Added [Divine Cloaks](https://www.nexusmods.com/skyrimspecialedition/mods/9304/?tab=files&file_id=160557)
+- Added [Dynamic Weather and Time Based Detection (SE and AE compatible)](https://www.nexusmods.com/skyrimspecialedition/mods/62546/?tab=files&file_id=274637)
+- Added [Dynamic Weather and Time Based Detection (SE and AE compatible)](https://www.nexusmods.com/skyrimspecialedition/mods/62546/?tab=files&file_id=273263)
+- Added [Elder Souls - Sweep Attacks Standalone SE](https://www.nexusmods.com/skyrimspecialedition/mods/47395/?tab=files&file_id=192986)
+- Added [Experience Quests Tweak](https://www.nexusmods.com/skyrimspecialedition/mods/57706/?tab=files&file_id=238070)
+- Added [Followers Don't Draw Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/3870/?tab=files&file_id=15241)
+- Added [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276/?tab=files&file_id=239717)
+- Added [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276/?tab=files&file_id=296543)
+- Added [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276/?tab=files&file_id=296546)
+- Added [Hand to Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790/?tab=files&file_id=295244)
+- Added [Immersive Sounds - Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523/?tab=files&file_id=221873)
+- Added [Immersive Sounds Compendium Drinking Sound Fix](https://www.nexusmods.com/skyrimspecialedition/mods/58623/?tab=files&file_id=242235)
+- Added [Improved Traps](https://www.nexusmods.com/skyrimspecialedition/mods/17592/?tab=files&file_id=262981)
+- Added [](https://www.nexusmods.com/skyrimspecialedition/mods/61314/?tab=files&file_id=254066)
+- Added [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719/?tab=files&file_id=258619)
+- Added [Mortal Enemies SE](https://www.nexusmods.com/skyrimspecialedition/mods/4881/?tab=files&file_id=14358)
+- Added [Mundus - A Standing Stone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33411/?tab=files&file_id=289850)
+- Added [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57834)
+- Added [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839/?tab=files&file_id=295251)
+- Added [No Killmoves - No Killcams - No Killbites SE](https://www.nexusmods.com/skyrimspecialedition/mods/13395/?tab=files&file_id=236794)
+- Added [Open World Loot (OWL) - Vanilla Progression](https://www.nexusmods.com/skyrimspecialedition/mods/51496/?tab=files&file_id=211408)
+- Added [Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681/?tab=files&file_id=297691)
+- Added [Open World Loot (OWL) - Vanilla Progression](https://www.nexusmods.com/skyrimspecialedition/mods/51496/?tab=files&file_id=210499)
+- Added [Open World Loot - Encounter Zone and Loot Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49681/?tab=files&file_id=204284)
+- Added [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=292326)
+- Added [Realistic AI Detection SE (better sneaking)](https://www.nexusmods.com/skyrimspecialedition/mods/2345/?tab=files&file_id=279347)
+- Added [Sovngarde - HQ Main Menu Music Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/33639/?tab=files&file_id=128784)
+- Added [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138/?tab=files&file_id=291896)
+- Added [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57972)
+- Added [Unofficial High Definition Audio Project](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57857)
+- Added [Weather of World](https://www.nexusmods.com/skyrimspecialedition/mods/58782/?tab=files&file_id=243039)
+- Added [Zim's Dragon Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/38693/?tab=files&file_id=232827)
+- Added [Zombie Voice Remover](https://www.nexusmods.com/skyrimspecialedition/mods/6783/?tab=files&file_id=16288)
+- Added [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751/?tab=files&file_id=288908)
+- Added [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125/?tab=files&file_id=243514)
+- Added [Hand to Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790/?tab=files&file_id=248860)
+- Added [Better SkyUI Config - Smart sorting by type](https://www.nexusmods.com/skyrimspecialedition/mods/49095/?tab=files&file_id=203272)
+- Added [Bright Waterfall Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37956/?tab=files&file_id=212209)
+- Added [Enemy Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/50483/?tab=files&file_id=253567)
+- Added [Menu and Load Smoke Removed for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/51986/?tab=files&file_id=212716)
+- Added [NORDIC UI - Alternate SkyHUD preset for TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/67541/?tab=files&file_id=288641)
+- Added [NORDIC UI - Alternate SkyHUD preset for TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/67541/?tab=files&file_id=281479)
+- Added [Recoil On Objects](https://www.nexusmods.com/skyrimspecialedition/mods/70719/?tab=files&file_id=296100)
+- Added [Stay At The System Page - AE](https://www.nexusmods.com/skyrimspecialedition/mods/67883/?tab=files&file_id=282945)
+- Added [NORDIC UI - Alternate 3D Main Menu](https://www.nexusmods.com/skyrimspecialedition/mods/64049/?tab=files&file_id=266129)
+- Added [Artesian Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/17416/?tab=files&file_id=57482)
+- Added [HDT SMP XMLs](https://www.nexusmods.com/skyrimspecialedition/mods/25240/?tab=files&file_id=103627)
+- Added [Nordic Carved Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/69934/?tab=files&file_id=292417)
+- Added [3rd Person Dual Wield Animation Fix SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2425/?tab=files&file_id=3304)
+- Added [Nordic Carved Set - Resurgence](https://www.nexusmods.com/skyrimspecialedition/mods/69934/?tab=files&file_id=292420)
+- Added [Skeletons don't breathe SSE](https://www.nexusmods.com/skyrimspecialedition/mods/18542/?tab=files&file_id=60692)
+- Added [Sound Hammering Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/5592/?tab=files&file_id=12403)
+- Added [Artesian Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/17416/?tab=files&file_id=57483)
+
+
+## 0.2.0
+
+**Build at:** `7/18/2022 12:28:30 AM`
+
+**Info**:
+
+- Download Size change: +395.8MB (Total: 54.2GB)
+- Install Size change: +1.2GB (Total: 95.4GB)
+
+**Download Changes**:
+
+- Added [3BA Vanilla Armors - No Rim Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/59268/?tab=files&file_id=297111)
+- Added [3BA Vanilla Clothes and Armor](https://www.nexusmods.com/skyrimspecialedition/mods/51610/?tab=files&file_id=297698)
+- Added [CBBE Vanilla Armors - No Rim Lighting - Prebuilt Meshes (Curvy)](https://www.nexusmods.com/skyrimspecialedition/mods/59268/?tab=files&file_id=294720)
+- Added [Schlongs Of Skyrim Light SE](https://www.loverslab.com/files/file/3705-schlongs-of-skyrim-light-se/)
+- Added [SOS Light - NeverNude](https://www.loverslab.com/files/file/6307-sos-light-nevernude/)
+- Updated [3BA 3BBB CBPC Realistic Firm Breasts Butt and Thighs (3BA RFBBT)](https://www.nexusmods.com/skyrimspecialedition/mods/59123/?tab=files&file_id=290056)
+- Removed [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057/?tab=files&file_id=264598)
+- Removed [Nordic Alert - a Custom Detection Meter Preset](https://www.nexusmods.com/skyrimspecialedition/mods/63442/?tab=files&file_id=266809)
+
+
+## 0.1.0
+
+**Info**:
+
+- Patient zero
