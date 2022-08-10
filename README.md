@@ -54,7 +54,7 @@ Spack's Sexy Skyrim (hereinafter referred to as SSS) is the modlist ever.
 
 
 ### Disk Space
-  - Space required: **approx. 170 GB** (including downloads)
+  - Space required: **approx. 180 GB** (including downloads)
   - I recommend having the downloads folder on an SSD, as it will drastically speed up the installation.
 
 
@@ -132,8 +132,8 @@ After creating your character and exiting RaceMenu, your character may look inco
 - Toggle UI: X
 - Screenshot: F1 (screenshots are saved to the Game Root folder)
 - FPS Counter: F2
-- ENB Menu: F11
 - Toggle DOF: F10
+- ENB Menu: F11
 - Health Potion Hotkey: <
 - Stamina Potion Hotkey: >
 - Magicka Potion Hotkey: /
