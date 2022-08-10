@@ -1,24 +1,44 @@
 # Changelog
 
-<!--
+- [0.6.3](#063)
+- [0.6.2](#062)
+- [0.6.1](#061)
+- [0.6.0](#060)
+- [0.5.0](#050)
+- [0.4.1](#041)
+- [0.4.0](#040)
+- [0.3.2](#032)
 
-## x.x.x
+## 0.6.3
 
-**Build at:** ``
+**Build at:** `8/9/2022 8:28:58 PM`
 
-**save compatible**
+**Should be save compatible**
 
 **Info**:
 
-- 
+- Download Size change: -402.1MB (Total: 66.7GB)
+- Install Size change: -74.3MB (Total: 112.3GB)
+- Some patches. Expect more in the near future as I work out bugs
+- Yeah
 
 **Download Changes**:
 
-- Added []()
-- Removed []()
-- Updated []()
+- Added [Face Discoloration Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42441/?tab=files&file_id=243426)
+- Added [SOS Light Version with Tempered Skins for Males SSE](https://www.loverslab.com/files/file/3692-sos-light-version-with-tempered-skins-for-males-sse/)
+- Added [SPID for Footprints fix](https://www.nexusmods.com/skyrimspecialedition/mods/70978/?tab=files&file_id=297211)
+- Added [Tempered Skins for Males - Vanilla and SOS versions](https://www.nexusmods.com/skyrimspecialedition/mods/7902/?tab=files&file_id=162986)
+- Added [Where in Special Edition am I](https://www.nexusmods.com/skyrimspecialedition/mods/30907/?tab=files&file_id=218913)
+- Updated [Adamant Perks For NPCS](https://www.nexusmods.com/skyrimspecialedition/mods/47484/?tab=files&file_id=301826)
+- Updated [BURP Spell Tomes Patches](https://www.nexusmods.com/skyrimspecialedition/mods/65696/?tab=files&file_id=303785)
+- Updated [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=303789)
+- Updated [NORDIC UI - Miscellaneous Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54102/?tab=files&file_id=304923)
+- Updated [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=304790)
+- Updated [Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347/?tab=files&file_id=304973)
+- Updated [Wash That Blood Off 2](https://www.nexusmods.com/skyrimspecialedition/mods/62358/?tab=files&file_id=304740)
+- Removed [Unofficial Skyrim Modders Patch - USMP - Patch Emporium](https://www.nexusmods.com/skyrimspecialedition/mods/50813/?tab=files&file_id=296708)
+- Removed [Soaking Wet - Character Wetness Effect](https://www.nexusmods.com/skyrimspecialedition/mods/68025/?tab=files&file_id=290493)
 
--->
 
 ## 0.6.2
 
