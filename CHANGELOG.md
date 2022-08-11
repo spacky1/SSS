@@ -34,7 +34,7 @@
 
 **Download Changes**:
 
-- Removed [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=143478 - Compatibility Patch for Enhanced Blood Textures)
+- Removed [Audio Overhaul for Skyrim SE - Compatibility Patch for Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=143478)
 
 
 ## 0.6.4
