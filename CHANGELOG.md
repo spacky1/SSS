@@ -26,8 +26,7 @@
 
 - Download Size change: -1.1KB (Total: 66.5GB)
 - Install Size change: +201KB (Total: 112.3GB)
-- Mod authors won't make patches?
-- Fine, I'll do it myself
+- [Mod authors won't make patches?](https://www.youtube.com/watch?v=EzWNBmjyv7Y)
 - No really. Those were a few days of my life I'll never get back
 - On the bright side... list is almost in a release-ready state
 - Yeah
