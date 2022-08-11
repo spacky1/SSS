@@ -1,5 +1,6 @@
 # Changelog
 
+- [0.7.0](#070)
 - [0.6.4](#064)
 - [0.6.3](#063)
 - [0.6.2](#062)
@@ -13,6 +14,27 @@
 - [0.3.0](#030)
 - [0.2.0](#020)
 - [0.1.0](#010)
+
+
+## 0.7.0
+
+**Build at:** `8/11/2022 5:20:54 AM`
+
+**Not save compatible**
+
+**Info**:
+
+- Download Size change: -1.1KB (Total: 66.5GB)
+- Install Size change: +201KB (Total: 112.3GB)
+- Mod authors won't make patches?
+- Fine, I'll do it myself
+- No really. Those were a few days of my life I'll never get back
+- On the bright side... list is almost in a release-ready state
+- Yeah
+
+**Download Changes**:
+
+- Removed [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=143478 - Compatibility Patch for Enhanced Blood Textures)
 
 
 ## 0.6.4
