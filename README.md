@@ -148,7 +148,7 @@ While [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) is i
 
 
 ### Controls
-Beyond the vanilla control scheme, there are many mod-added hotkeys and menus. Here is a list of the most important ones:
+There are many mod-added hotkeys and menus, the most important ones listed below. Refer to it if you need. It won't leave.
 
 - Skyrim Together Menu: Right Control
 - Emotes Menu: Right Alt
@@ -170,10 +170,10 @@ For information on questing and Skyrim Together's party system, read the [Playgu
 **If you have any Skyrim Together related issues**:
 
 - First read [this modlist's FAQ](#faq-&-common-issues).
-- If your issue isn't resolved, check out Skyrim Together's [Troubleshooting](https://wiki.tiltedphoques.com/tilted-online/guides/troubleshooting) and [FAQ](https://wiki.tiltedphoques.com/tilted-online/general-information/faq) sections.
-- If your issue *still isn't resolved*, **DO NOT report bugs or bother the Skyrim Together/Tilted Online devs. Bother me instead.** They are not and should not be responsible for issues with this specific modlist. I may have caused these issues myself.
+- If your issue isn't resolved: check out Skyrim Together's [Troubleshooting](https://wiki.tiltedphoques.com/tilted-online/guides/troubleshooting) and [FAQ](https://wiki.tiltedphoques.com/tilted-online/general-information/faq) sections.
+- If your issue still isn't resolved: **Bother me first. DO NOT report bugs to or bother the Skyrim Together/Tilted Online devs!** They are not and should not be responsible for issues with this specific modlist. If your issue isn't listed on their site, I probably caused it myself.
 
-Phew. That was a lot of information. You made it. ***Now go fistfight some dragons!***
+Phew. That was a lot of information. You made it. ***Now go fist fight some dragons–together!***
 
 
 ## Updating
@@ -235,7 +235,7 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 - You didn't select the correct SkyrimSE executable. When launching Skyrim Together through MO2, hold down Space and select the correct .exe from `SSS\Game Root`.
 
 #### How do I enable male dongers and female whizbangers?
-- Enable nudity by expanding the `Nudity` separator in the left pane of MO2, and activating the mod. It is simply a mesh replacer.
+- Enable nudity by expanding the `Nudity` separator in the left pane of MO2, and activating the mod. It is simply a mesh replacer and will not cause desync or save-related issues.
 
 #### I don't like the included ENB!
 - The list uses NAT's weather, so you can easily replace the included ENB with an preset that is made for its weathers, such as [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141) or [Cabbage](https://drive.google.com/file/d/1zUtXwRXjvgRfO3R7xN-uqSoC17qS-Lxc/view).
@@ -250,7 +250,7 @@ Updating is like re-installing the list. Simply download the new .wabbajack file
 
 #### Various character features (e.g. bodypaints, hair color) do not sync correctly!
 - Read the above issue first. If this doesn't apply to you...
-- Go back and read [the section where I thoroughly outlined what to avoid when creating your character.](#character-creation-info) At least read the bolded shit.
+- Go back and read [the section where I thoroughly and painstakingly outlined what to avoid when creating your character.](#character-creation-info) Please, at least read the bolded shit.
 
 #### When I start the game, it hangs on the loading screen!
 - Once the game window opens, don't tab out until you get to the main menu. It doesn't like that, and I have no idea why.
