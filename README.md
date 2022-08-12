@@ -163,23 +163,23 @@ While [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) is i
 
 
 ### Controls
-There are many mod-added hotkeys and menus, the most important ones listed below. Refer to it if you need. It won't leave. These may be rebound in their respective MCM.
+There are many mod-added hotkeys and menus, the most important ones listed below. Refer to it if you need. It won't leave. Most of these may be rebound in their MCM.
 
-- Skyrim Together Menu: `Right Control` or `F2` (cannot be rebound, afaik)
-- Emotes Menu: `Right Alt`
-- Lock-On (TDM): `Middle Mouse Button`
-- Toggle UI: `X`
-- ENB:
-	- Screenshot: `F1` (screenshots are saved to the Game Root folder)
-	- FPS Counter: `F5`
-	- Toggle DOF: `F10`
-	- Options Menu: `F11`
-- Hotkey Potions:
-	- Health: `<`
-	- Stamina: `>`
-	- Magicka: `/`
-- Simplest Horses Hotkey: `H` (read the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/54225) for more information)
-- Immersive Equipment Displays Options: `F4`
+- **Skyrim Together Menu**: `Right Control` or `F2` (cannot be rebound, afaik)
+- **Emotes**: `Right Alt`
+- **Lock-On**: `Middle Mouse Button`
+- **Toggle UI**: `X`
+- **ENB**:
+	- **Screenshot**: `F1` (saved to the Game Root folder)
+	- **FPS Counter**: `F5`
+	- **Toggle DOF**: `F10`
+	- **Options Menu**: `F11`
+- **Hotkey Potions**:
+	- **Health**: `<`
+	- **Stamina**: `>`
+	- **Magicka**: `/`
+- **Simplest Horses Hotkey**: `H` ([modpage](https://www.nexusmods.com/skyrimspecialedition/mods/54225) for more information)
+- **Immersive Equipment Displays Options**: `F4`
 
 
 ### Skyrim Together Info
