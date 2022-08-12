@@ -36,22 +36,22 @@ View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-
 ## Preamble
 SSS (Spack's Sexy Skyrim) is the modlist ever. Using the wonderful Animonculory Visual Overhaul as a base, SSS is primarily meant to provide a complete overhaul of Skyrim's graphics while also including:
 
-- Improved combat
+- Improved and tweaked combat
 - Actually playable third-person
-- Overhauled animations
-- Improved and expanded soundscape, sound FX, and music
-- Overhauled magic, perks, shouts, etc
-- Tons of character creation options
-- Many quality-of-life features
+- Redone and improved animations
+- Expanded soundscape, sound FX, and music
+- Redone and improved magic, perks, shouts, etc
+- A ton of character creation options
+- Many quality-of-life features and fixes
 - And more!
 
-All of this while being tested, patched, and tweaked for (ideally) maximum compatibility with Skyrim Together.
+All of this while being tested, patched, and tweaked specifically for maximum compatibility with Skyrim Together. This modlist is great for those who want to just **play** modded Skyrim Together without the massive effort and time commitment of building your own list, patching, and testing for bugs and compatibility. It's also great for those who are new to Skyrim or modded Skyrim because of the list's emphasis on simply tweaking and improving upon the vanilla base, rather than creating a new game and requiring a dictionary's worth of information to get started.
 
 ![image](images/SSS-NAT.webp)
 
-**If you're new to installing a Wabbajack modlist or Skyrim modding in general:**
+**If you're new Wabbajack or Skyrim modding in general:**
 
-	Please, please, please read this guide in its entirety.
+	Please read this guide in its entirety.
 
 
 ## Requirements
