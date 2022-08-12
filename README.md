@@ -49,7 +49,7 @@ All of this while being tested, patched, and tweaked specifically for maximum co
 
 ![image](images/SSS-NAT.webp)
 
-**If you're new Wabbajack or Skyrim modding in general:**
+**If you're new to Wabbajack or Skyrim modding in general:**
 
 	Please read this guide in its entirety.
 
