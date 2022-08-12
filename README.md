@@ -20,7 +20,7 @@ View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
   - [Playing the Modist](#playing-the-list)
-    - [Starting Mod Organizer 2](#starting-up-mod-organizer-2)
+    - [Starting Mod Organizer](#starting-mod-organizer)
     - [Starting the Game](#starting-the-game)
     - [Character Creation Info](#character-creation-info)
     - [Controls](#controls)
@@ -125,7 +125,7 @@ SSS uses a Wabbajack feature called Stock Game to keep your original Skyrim inst
 
 ## Playing the List
 
-### Starting Mod Organizer 2
+### Starting Mod Organizer
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
 
 
