@@ -1,5 +1,6 @@
 # Changelog
 
+- [0.7.1](#071)
 - [0.7.0](#070)
 - [0.6.4](#064)
 - [0.6.3](#063)
@@ -14,6 +15,25 @@
 - [0.3.0](#030)
 - [0.2.0](#020)
 - [0.1.0](#010)
+
+
+## 0.7.1
+
+**Build at:** `8/12/2022 9:27:35 AM`
+
+**Info**:
+
+- Download Size change: +2.2MB (Total: 66.5GB)
+- Install Size change: +8.8MB (Total: 112.3GB)
+- Tweaked Precision settings to improve collision and fix some issues that would cause desync
+- Finally customized STR's UI to be consistent with the rest of the list
+
+**Download Changes**:
+
+- Added [Nordic Together Reborn UI](https://www.nexusmods.com/skyrimspecialedition/mods/71247/?tab=files&file_id=298397)
+- Added [Nordic Together Reborn UI (Sounds)](https://www.nexusmods.com/skyrimspecialedition/mods/71247/?tab=files&file_id=298538)
+- Updated [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=296729)
+- Removed [Realistic Melee Range](https://www.nexusmods.com/skyrimspecialedition/mods/3378/?tab=files&file_id=61942)
 
 
 ## 0.7.0
