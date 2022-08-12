@@ -28,7 +28,7 @@ View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-
   - [Updating](#updating)
     <!--- [Updating Skyrim Together](#updating-skyrim-together)-->
     - [Updating the Modlist](#updating-the-modlist)
-  - [FAQ & Common Issues](#faq-&-common-issues)
+  - [FAQ & Common Issues](#faq--common-issues)
   - [Removing the Modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
 
