@@ -3,7 +3,7 @@ A Skyrim Together Wabbajack Modlist
 
 ![image](images/splash-new.png)
 
-View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-sexy-skyrim).
+View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-sexy-skyrim)!
 
 
 ## Contents
@@ -20,19 +20,32 @@ View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
   - [Playing the Modist](#playing-the-list)
-    - [Starting up the List](#starting-up-the-list)
+    - [Starting Mod Organizer 2](#starting-up-mod-organizer-2)
     - [Starting the Game](#starting-the-game)
-    - [Important Mod-Added Controls](#important-mod-added-controls)
+    - [Character Creation Info](#character-creation-info)
+    - [Controls](#controls)
+    - [Skyrim Together Info](#skyrim-together-info)
   - [Updating](#updating)
     <!--- [Updating Skyrim Together](#updating-skyrim-together)-->
     - [Updating the Modlist](#updating-the-modlist)
-  - [FAQ](#faq)
+  - [FAQ & Common Issues](#faq-&-common-issues)
   - [Removing the Modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
 
 
 ## Preamble
-Spack's Sexy Skyrim (hereinafter referred to as SSS) is the modlist ever.
+SSS (Spack's Sexy Skyrim) is the modlist ever. Using the wonderful Animonculory Visual Overhaul as a base, SSS is primarily meant to provide a complete overhaul of Skyrim's graphics while also including:
+
+- Improved combat
+- Actually playable third-person
+- Overhauled animations
+- Improved and expanded soundscape, sound FX, and music
+- Overhauled magic, perks, shouts, etc
+- Tons of character creation options
+- Many quality-of-life features
+- And more!
+
+All of this while being tested, patched, and tweaked for (ideally) maximum compatibility with Skyrim Together.
 
 ![image](images/SSS-NAT.webp)
 
@@ -82,7 +95,7 @@ Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wa
 #### Downloading and Installing SSS
 Downloading and installing the modlist can take a while depending on your internet speed and hardware. To install SSS, complete the following steps.
 
-1. [Grab the latest version of the modlist from here.](/../../releases/latest) You only need to download the .wabbajack file. 
+1. Grab the [latest version of the modlist](/../../releases/latest). You only need to download the .wabbajack file. 
 2. Open the .wabbajack file. Wabbajack should open.
 3. Set the Installation Location to be somewhere like `C:\SSS`. **Do not install it into a Windows system-managed folder. (e.g. Desktop, Downloads)**
 4. The Download Location will autofill, but you are free to set a custom location. (on another drive, for example)
@@ -95,7 +108,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download X file:
 	- Big files can fail to download due to connection issues. You can either try running Wabbajack again or download the file manually and place it in the downloads folder.
-	- If the problematic file is from MEGA or LoversLab, I would recommend downloading it by opening the log and locating its URL at the bottom of the file. Manually place the file in the modlist's downloads folder **WITHOUT EXTRACTING**.
+	- If the problematic file is from MEGA or LoversLab, I would recommend downloading it manually. Open the latest Wabbajack log and locate the file's URL at or near the bottom of the log. Place the downloaded file in the modlist's downloads folder. **DO NOT EXTRACT THE FILE**.
 
 - Wabbajack could not find my game folder:
 	- Either buy the game or re-read the [Pre-Installation](#pre-installation) step.
@@ -112,34 +125,55 @@ SSS uses a Wabbajack feature called Stock Game to keep your original Skyrim inst
 
 ## Playing the List
 
-### Starting up the List
+### Starting Mod Organizer 2
 Open the installation folder and double click on the program called `ModOrganizer.exe`. 
-
-Make sure the dropdown box on the right is set to `Skyrim Together Reborn` and press the `Run` button. When prompted, select `SkyrimSE.exe` **from the modlist's "Game Root" folder – NOT Steam's Skyrim Special Edition folder!**
 
 
 ### Starting the Game
+Make sure the dropdown box at the top-right is set to `Skyrim Together Reborn`. Press the `Run` button.
+
+**If you are starting Skyrim Together for the first time:** when prompted, select `SkyrimSE.exe` **from the modlist's "Game Root" folder – NOT Steam's Skyrim Special Edition folder!**
+
 SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953). You are free to either play through the introduction or skip it.
 
 
+### Character Creation Info
+While [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) is included to provide a vastly improved character creation UI, **many of its features are not compatible with Skyrim Together**. When creating your character, here are some simple ground rules to avoid desync and other, more serious issues. Yeah, I tested all of this so that you don't have to.
 
-After creating your character and exiting RaceMenu, your character may look incorrect. Simply exit to the main menu and press `Continue` to fix this.
+1. **Do not use custom RGB colors for any vanilla tintmask. You MUST use preset colors**. This includes skin tone, hair color, vanilla makeup, etc; anything in the "Colors" tab. Custom colors **can and will** cause synchronization issues, such as other players having the same hair/skin color as you. However...
+2. **Anything in the "Makeup" tab will sync, and can be a custom RGB color**. Feel free to go crazy here! *However*.....
+3. **Nothing in the "Body Paint", "Face Paint", "Hand Paint", or "Foot Paint" tabs will sync**. These are added by RaceMenu, so ST has no way to pass on this information. You may still add paints here; they are non-problematic. Just keep in mind that other players will not be able to see them.
+4. **RaceMenu-added morphs/sliders will not sync**; again, ST has no way to pass on this info. Like #3, they are also otherwise non-problematic, but if you have customized your character to look good with RaceMenu's morphs, or are loading a preset, then you will look "wrong" to other players. To look correct on every client, go to the "All" tab and make sure every slider below "Lip Color" is zeroed/default.
+5. **Beware of custom colors when loading a RaceMenu preset file**! Even if the color matches a preset one, RaceMenu still stores and loads this as an ARGB value, therefore making the game see it as a custom color, causing the issues mentioned in Rule #1. If you are loading a RaceMenu preset, you will need to make sure ALL the sliders in the "Colors" tab have been matched to a preset color.
 
-### Important Mod-Added Controls
+
+### Controls
+Beyond the vanilla control scheme, there are many mod-added hotkeys and menus. Here is a list of the most important ones:
+
 - Skyrim Together Menu: Right Control
 - Emotes Menu: Right Alt
-- Lock-On: Middle Mouse Button
+- Lock-On (TDM): Middle Mouse Button
 - Toggle UI: X
 - Screenshot: F1 (screenshots are saved to the Game Root folder)
 - FPS Counter: F2
 - Toggle DOF: F10
-- ENB Menu: F11
+- ENB Options Menu: F11
 - Health Potion Hotkey: <
 - Stamina Potion Hotkey: >
 - Magicka Potion Hotkey: /
-- Simplest Horses: H
+- Simplest Horses Hotkey: H (read the [mod's page](https://www.nexusmods.com/skyrimspecialedition/mods/54225) for more information)
 
-Phew. You made it! ***Now go play your dang videogame.***
+
+### Skyrim Together Info
+For information on questing and Skyrim Together's party system, read the [Playguide](https://wiki.tiltedphoques.com/tilted-online/general-information/playguide).
+
+**If you have any Skyrim Together related issues**:
+
+- First read [this modlist's FAQ](#faq-&-common-issues).
+- If your issue isn't resolved, check out Skyrim Together's [Troubleshooting](https://wiki.tiltedphoques.com/tilted-online/guides/troubleshooting) and [FAQ](https://wiki.tiltedphoques.com/tilted-online/general-information/faq) sections.
+- If your issue *still isn't resolved*, **DO NOT report bugs or bother the Skyrim Together/Tilted Online devs. Bother me instead.** They are not and should not be responsible for issues with this specific modlist. I may have caused these issues myself.
+
+Phew. That was a lot of information. You made it. ***Now go fistfight some dragons!***
 
 
 ## Updating
@@ -193,32 +227,42 @@ If you've already done this once, you can skip to the [next section](#downloadin
 - Any mods you have added yourself will be deleted when updating. Add `[NoDelete]` to the front of the mod's filename to prevent Wabbajack from deleting it.
 - Your saves will not be deleted, and unless explicitly stated, updates to the modlist should be save-compatible.
 
-Updating is like re-installing the list. Simply download the new .wabbajack file and open it. Make sure your paths are the same and tick the `overwrite existing modlist` button. Once the install is finished, you may copy your saves over.
+Updating is like re-installing the list. Simply download the new .wabbajack file and open it. Make sure your paths are the same and tick the `overwrite existing modlist` button. It'll just work.
 
 
-## FAQ
-#### I get an "Address Library" error when launching Skyrim Together
+## FAQ & Common Issues
+#### I get an "Address Library" error when launching Skyrim Together!
 - You didn't select the correct SkyrimSE executable. When launching Skyrim Together through MO2, hold down Space and select the correct .exe from `SSS\Game Root`.
 
-#### How do I enable male dongers and female whizbangers
+#### How do I enable male dongers and female whizbangers?
 - Enable nudity by expanding the `Nudity` separator in the left pane of MO2, and activating the mod. It is simply a mesh replacer.
 
-#### I don't like the included ENB.
+#### I don't like the included ENB!
 - The list uses NAT's weather, so you can easily replace the included ENB with an preset that is made for its weathers, such as [NAT.ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27141) or [Cabbage](https://drive.google.com/file/d/1zUtXwRXjvgRfO3R7xN-uqSoC17qS-Lxc/view).
 - Several presets are already included, and ENB Organizer is included to help you manage and try out different presets. You may launch it either from `SSS\tools\ENB Organizer`, or through MO2. To switch presets, open the presets tab. First disable the active preset, then enable the desired one.
 - I highly recommend Cabbage; so much so that I included some fixes and tweaks in ENB Organizer. Simply install Cabbage by navigating to `SSS\tools\ENB Organizer\Games\SkyrimSE\Presets` and copying JUST the "enbseries" folder from the Cabbage archive into "Spack's Cabbage" and/or "Spack's Cabbage - Performance". **Click skip when prompted – do not overwrite.**
 
-#### Various character features (e.g. bodypaints) do not sync correctly
-- Only choose preset colors for skin, hair, etc. Make sure all overlays (makeup, warpaints) are in RaceMenu's Makeup tab. They can be a custom color.
+#### My face gets fucked up after character creation!
+- Quit to main menu and reload.
 
-#### When I start the game, it hangs on the loading screen
-- Once the game window opens, don't tab out until you get to the main menu. It doesn't like that.
+#### My face gets fucked up after seeing another player on a server!
+- Save, quit to main menu, and reload. This *should* permanently fix it. This happens because of the way ST generates and caches facegen for other players.
+
+#### Various character features (e.g. bodypaints, hair color) do not sync correctly!
+- Read the above issue first. If this doesn't apply to you...
+- Go back and read [the section where I thoroughly outlined what to avoid when creating your character.](#character-creation-info) At least read the bolded shit.
+
+#### When I start the game, it hangs on the loading screen!
+- Once the game window opens, don't tab out until you get to the main menu. It doesn't like that, and I have no idea why.
 
 #### X outfit has clipping issues!
-- I know, and I care too, but this isn't my problem to fix. Feel free to let me know of issues with outfits OTHER THAN clipping.
+- I know, and I care too, but this isn't my problem to fix. Feel free to let me know of issues with outfits OTHER THAN clipping. (vanilla textures, incorrect textures, etc)
 
-#### Save games show up as corrupt
-- Just Skyrim Together things. Restart the game and they should no longer be "corrupt".
+#### The Skyrim Together UI will not show up!
+- Just Skyrim Together things. Try quitting to main menu, and reloading. If that doesn't work, you will unfortunately have to restart the game. This may be fixed in a future Skyrim Together update. 
+
+#### Save games show up as corrupt!
+- Just Skyrim Together things. Restart the game and they should no longer be "corrupt". This may be fixed in a future Skyrim Together update.
 
 
 ## Removing the Modlist
