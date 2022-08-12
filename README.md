@@ -49,7 +49,7 @@ All of this while being tested, patched, and tweaked specifically for maximum co
 
 This modlist is great for those who want to just **play** modded Skyrim Together without the massive effort and time commitment of building your own list, patching, and testing for bugs and compatibility.
 
-It's also great for those who are new to Skyrim or modded Skyrim because of the list's emphasis on simply tweaking and improving upon the vanilla base, rather than creating a new game and requiring a dictionary's worth of information to get started.
+It's also great for those who are new to Skyrim or modded Skyrim because of the list's emphasis on simply tweaking and improving upon the vanilla base, rather than creating a new game entirely and requiring a dictionary's worth of information to get started.
 
 ![image](images/SSS-NAT.webp)
 
