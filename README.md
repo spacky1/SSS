@@ -108,7 +108,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download X file:
 	- Big files can fail to download due to connection issues. You can either try running Wabbajack again or download the file manually and place it in the downloads folder.
-	- If the problematic file is from MEGA or LoversLab, I would recommend downloading it manually. Open the latest Wabbajack log and locate the file's URL at or near the bottom of the log. Place the downloaded file in the modlist's downloads folder. **DO NOT EXTRACT THE FILE**.
+	- If the problematic file is from MEGA or LoversLab, I would recommend downloading it manually. Open the latest Wabbajack log and locate the file's URL at or near the bottom of the log. Place the downloaded file in the modlist's downloads folder and restart Wabbajack. **DO NOT EXTRACT THE FILE**.
 
 - Wabbajack could not find my game folder:
 	- Either buy the game or re-read the [Pre-Installation](#pre-installation) step.
@@ -132,7 +132,7 @@ Open the installation folder and double click on the program called `ModOrganize
 ### Starting the Game
 Make sure the dropdown box at the top-right is set to `Skyrim Together Reborn`. Press the `Run` button.
 
-**If you are starting Skyrim Together for the first time:** when prompted, select `SkyrimSE.exe` **from the modlist's "Game Root" folder – NOT Steam's Skyrim Special Edition folder!**
+**If you are starting Skyrim Together for the first time**: when prompted, select `SkyrimSE.exe` **from the modlist's "Game Root" folder – NOT Steam's Skyrim Special Edition folder!**
 
 SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/mods/63953). You are free to either play through the introduction or skip it.
 
@@ -148,7 +148,6 @@ While [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) is i
 	
 	- Feel free to go crazy here! *However*.....
 
-
 3. **Nothing in the "Body Paint", "Face Paint", "Hand Paint", or "Foot Paint" tabs will sync.**
 
 	- These are added by RaceMenu, so ST has no way to pass on this information. You may still add paints here; they are non-problematic. Just keep in mind that other players will not be able to see them.
@@ -157,7 +156,7 @@ While [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) is i
 	
 	- Again, ST has no way to pass on this info. Like #3, they are also otherwise non-problematic, but if you have customized your character to look good with RaceMenu's morphs, or are loading a preset, then you will look "wrong" to other players. To look correct on every client, go to the "All" tab and make sure every slider below "Lip Color" is zeroed/default.
 	
-5. **Beware of custom colors when loading a RaceMenu preset file!**
+5. **Beware of custom colors when loading a RaceMenu preset file.**
 	
 	- Even if the color matches a preset one, RaceMenu still stores and loads this as an ARGB value, therefore making the game see it as a custom color, causing the issues mentioned in Rule #1. If you are loading a RaceMenu preset, you will need to make sure ALL the sliders in the "Colors" tab have been matched to a preset color.
 
