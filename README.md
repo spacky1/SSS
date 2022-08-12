@@ -1,5 +1,5 @@
 # SSS
-A Skyrim Together Wabbajack modlist. Fist fight dragons–together!
+A Skyrim Together Wabbajack modlist.
 
 ![image](images/splash-new.png)
 
@@ -156,7 +156,7 @@ While [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) is i
 
 	- These are added by RaceMenu, so ST has no way to pass on this information. You may still add paints here; they are non-problematic. Just keep in mind that other players will not be able to see them.
 	
-4. **RaceMenu-added morphs/sliders will not sync.**
+4. **RaceMenu-added morphs will not sync.**
 	
 	- Again, ST has no way to pass on this info. Like #3, they are also otherwise non-problematic, but if you have customized your character to look good with RaceMenu's morphs, or are loading a preset, then you will look "wrong" to other players. To look correct on every client, go to the "All" tab and make sure every slider below "Lip Color" is zeroed/default.
 	
@@ -194,7 +194,7 @@ For information on questing and Skyrim Together's party system, read the [Playgu
 - If your issue isn't resolved: check out Skyrim Together's [Troubleshooting](https://wiki.tiltedphoques.com/tilted-online/guides/troubleshooting) and [FAQ](https://wiki.tiltedphoques.com/tilted-online/general-information/faq) sections.
 - If your issue still isn't resolved: **Bother me first. DO NOT report bugs to or bother the Skyrim Together/Tilted Online devs!** They are not and should not be responsible for issues with this specific modlist. If your issue isn't listed on their site, I probably caused it myself.
 
-Phew. That was a lot of information. You made it. ***Now go fist fight some dragons–together!***
+Phew. That was a lot of information. You made it. ***Now go fist fight some dragons—together!***
 
 
 ## Updating
