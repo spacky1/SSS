@@ -1,5 +1,5 @@
 # SSS
-A Skyrim Together Wabbajack Modlist
+A Skyrim Together Wabbajack modlist. Fist fight dragons–together!
 
 ![image](images/splash-new.png)
 
