@@ -166,17 +166,19 @@ While [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) is i
 There are many mod-added hotkeys and menus, the most important ones listed below. Refer to it if you need. It won't leave.
 
 - Skyrim Together Menu: Right Control
-- Emotes Menu: Right Alt
-- Lock-On (TDM): Middle Mouse Button
-- Toggle UI: X
-- Screenshot: F1 (screenshots are saved to the Game Root folder)
-- FPS Counter: F2
-- Toggle DOF: F10
-- ENB Options Menu: F11
-- Health Potion Hotkey: <
-- Stamina Potion Hotkey: >
-- Magicka Potion Hotkey: /
-- Simplest Horses Hotkey: H (read the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/54225) for more information)
+- Emotes Menu: Right Alt (you may rebind this in the MCM)
+- Lock-On (TDM): Middle Mouse Button (you may rebind this in the MCM)
+- Toggle UI: X (you may rebind this in the MCM)
+- ENB:
+	- Screenshot: F1 (screenshots are saved to the Game Root folder)
+	- FPS Counter: F2
+	- Toggle DOF: F10
+	- Options Menu: F11
+- Hotkey Potions: (you may rebind these in the MCM)
+	- Health: <
+	- Stamina: >
+	- Magicka: /
+- Simplest Horses Hotkey: H (read the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/54225) for more information. You may rebind this in the MCM)
 
 
 ### Skyrim Together Info
