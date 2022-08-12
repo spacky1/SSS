@@ -288,8 +288,9 @@ Everything in the modlist is self-contained. Simply delete the modlist folder, a
 
 ## Credits and Thanks
 - _YOU_ for reading this. Thank you!
-- Althro and the Animonculory Team for AVO, the graphical foundation of this modlist. Let's be real here: they did 99% of the work for me.
-- A couple of my friends: one for devoting many hours to making RaceMenu presets, and the other for helping me playtest a bit.
-- The bear for its unyielding dedication to my cause
+- Althro and the Animonculory Team for AVO, the foundation of this list. Let's be real here: they did 99% of the work for me.
+- TitansBane and Sovn for their wonderful lists, Elysium and Aldrnari, respectively. Many decisions in the list were inspired by their work and my many hours of gameplay in their lists.
+- My friends, for playtesting, giving feedback, and their emotional and moral support.
+- The bear, for its unyielding dedication to my cause.
 
 <img src="https://raw.githubusercontent.com/spacky1/SSS/main/images/Splash-old.png" width="144px"/>
