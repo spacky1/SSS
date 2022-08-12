@@ -140,11 +140,16 @@ SSS uses [Optional Quick Start](https://www.nexusmods.com/skyrimspecialedition/m
 ### Character Creation Info
 While [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) is included to provide a vastly improved character creation UI, **many of its features are not compatible with Skyrim Together**. When creating your character, here are some simple ground rules to avoid desync and other, more serious issues. Yeah, I tested all of this so that you don't have to.
 
-1. **Do not use custom RGB colors for any vanilla tintmask. You MUST use preset colors**. This includes skin tone, hair color, vanilla makeup, etc; anything in the "Colors" tab. Custom colors **can and will** cause synchronization issues, such as other players having the same hair/skin color as you. However...
-2. **Anything in the "Makeup" tab will sync, and can be a custom RGB color**. Feel free to go crazy here! *However*.....
-3. **Nothing in the "Body Paint", "Face Paint", "Hand Paint", or "Foot Paint" tabs will sync**. These are added by RaceMenu, so ST has no way to pass on this information. You may still add paints here; they are non-problematic. Just keep in mind that other players will not be able to see them.
-4. **RaceMenu-added morphs/sliders will not sync**; again, ST has no way to pass on this info. Like #3, they are also otherwise non-problematic, but if you have customized your character to look good with RaceMenu's morphs, or are loading a preset, then you will look "wrong" to other players. To look correct on every client, go to the "All" tab and make sure every slider below "Lip Color" is zeroed/default.
-5. **Beware of custom colors when loading a RaceMenu preset file**! Even if the color matches a preset one, RaceMenu still stores and loads this as an ARGB value, therefore making the game see it as a custom color, causing the issues mentioned in Rule #1. If you are loading a RaceMenu preset, you will need to make sure ALL the sliders in the "Colors" tab have been matched to a preset color.
+1. **Do not use custom RGB colors for any vanilla tintmask. You MUST use preset colors.**
+	This includes skin tone, hair color, vanilla makeup, etc; anything in the "Colors" tab. Custom colors **can and will** cause synchronization issues, such as other players having the same hair/skin color as you. However...
+2. **Anything in the "Makeup" tab will sync, and can be a custom RGB color.**
+	Feel free to go crazy here! *However*.....
+3. **Nothing in the "Body Paint", "Face Paint", "Hand Paint", or "Foot Paint" tabs will sync.**
+	These are added by RaceMenu, so ST has no way to pass on this information. You may still add paints here; they are non-problematic. Just keep in mind that other players will not be able to see them.
+4. **RaceMenu-added morphs/sliders will not sync.**
+	Again, ST has no way to pass on this info. Like #3, they are also otherwise non-problematic, but if you have customized your character to look good with RaceMenu's morphs, or are loading a preset, then you will look "wrong" to other players. To look correct on every client, go to the "All" tab and make sure every slider below "Lip Color" is zeroed/default.
+5. **Beware of custom colors when loading a RaceMenu preset file!**
+	Even if the color matches a preset one, RaceMenu still stores and loads this as an ARGB value, therefore making the game see it as a custom color, causing the issues mentioned in Rule #1. If you are loading a RaceMenu preset, you will need to make sure ALL the sliders in the "Colors" tab have been matched to a preset color.
 
 
 ### Controls
@@ -161,7 +166,7 @@ There are many mod-added hotkeys and menus, the most important ones listed below
 - Health Potion Hotkey: <
 - Stamina Potion Hotkey: >
 - Magicka Potion Hotkey: /
-- Simplest Horses Hotkey: H (read the [mod's page](https://www.nexusmods.com/skyrimspecialedition/mods/54225) for more information)
+- Simplest Horses Hotkey: H (read the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/54225) for more information)
 
 
 ### Skyrim Together Info
