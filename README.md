@@ -72,11 +72,11 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 ## Requirements
 ### Accounts
 ##### NexusMods
-  - You will need a free [NexusMods](https://users.nexusmods.com/register) account.
-  - Nexus Premium (~$7) is highly recommended as well. Otherwise, you will have to manually click the download button on each mod.
+  - You will need a [NexusMods](https://users.nexusmods.com/register) account.
+  - Nexus Premium (~$7) is highly recommended as well.
 
 ##### LoversLab
-  - You will also need a free [LoversLab](https://www.loverslab.com/register/) account.
+  - You will also need a [LoversLab](https://www.loverslab.com/register/) account.
 
 *If you do not have an account with one or both of these sites, you can make them now by clicking the links above.*
 
@@ -91,7 +91,7 @@ If you are updating the modlist, skip to the [updating section](#updating-the-mo
 
 
 ### Pre-Installation
-Prior to installing, complete the following steps.
+Prior to installing, complete the following steps. If you've already done this, you shouldn't need to do it again.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime).
 2. **Fully uninstall Skyrim** by deleting the Skyrim Special Edition folder in Steam and the Skyrim Special Edition folder inside `Documents\My Games`.
@@ -113,8 +113,9 @@ Downloading and installing the modlist can take a while depending on your intern
 1. Grab the [latest version of the modlist](/../../releases/latest). You only need to download the .wabbajack file. 
 2. Open the .wabbajack file. Wabbajack should open.
 3. Set the Installation Location to be somewhere like `C:\SSS`. **Do not install it into a Windows system-managed folder. (e.g. Desktop, Downloads)**
-4. The Download Location will autofill, but you are free to set a custom location. (on another drive, for example)
-5. Press the button to begin the install. If you have Nexus Premium, feel free to go do something else while WJ does its thing. If not, you will have to start the download for each mod manually.
+4. Press the button to begin the install.
+	- If you have Nexus Premium, feel free to go do something else while WJ does its thing.
+	- If not, you will have to start the download for each mod manually.
 6. If the installation is successful, move on to [Post-Installation](#post-installation). If not...
 
 
