@@ -58,7 +58,7 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 	Please read the installation guide in its entirety.
 	Especially if you're new to Wabbajack or Skyrim modding in general.
 	
-	This is not "just" documentation: this is a step-by-step list of instructions.
+	This is not "just" information: this is a step-by-step list of instructions.
 	Follow those instructions.
 	Do not skip any steps; do not assume any steps.
 	
