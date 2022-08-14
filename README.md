@@ -53,14 +53,16 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 
 ![image](images/SSS-NAT.webp)
 
-## Keep this in mind, or I will lose mine.
+## :clap: READ :clap: THE :clap: INSTRUCTIONS
 
-	Please read the installation guide in its entirety, especially if you're new to Wabbajack or Skyrim modding in general.
-	Follow the instructions.
+	Please read the installation guide in its entirety.
+	Especially if you're new to Wabbajack or Skyrim modding in general.
+	This is not "just" documentation: this is a step-by-step list of instructions.
+	Follow those instructions.
 	Do not skip anything; do not assume anything.
 	I didn't write documentation for fun, or for myself. I wrote it so you would READ it.
 	FOLLOW THE INSTRUCTIONS.
-	If you refuse to read and expect me to spoonfeed you instructions:
+	If you refuse to read, and expect me to personally spoonfeed you:
 	You will be bonked.
 
 
