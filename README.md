@@ -58,12 +58,14 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 	Please read the installation guide in its entirety.
 	Especially if you're new to Wabbajack or Skyrim modding in general.
 	
-	This is not "just" information: this is a step-by-step list of instructions.
-	Follow those instructions.
-	Do not skip any steps; do not assume any steps.
+	This is a step-by-step list of instructions.
+	Follow the instructions.
 	
-	I didn't write documentation for myself. I wrote it for you, so you would READ it.
+	I didn't write lengthy documentation for myself. I wrote it for you, so you would READ it.
 	FOLLOW THE INSTRUCTIONS.
+	
+	If something doesn't work as expected, or you need clarification, check here first before asking for support.
+	You will get your solution much quicker, and you won't waste other peoples' time. Win-win.
 	
 	If you refuse to read, and expect me to personally spoonfeed you:
 	You will be bonked.
