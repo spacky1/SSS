@@ -53,9 +53,12 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 
 ![image](images/SSS-NAT.webp)
 
-	If you're new to Wabbajack or Skyrim modding in general: please read this guide in its entirety. Follow the instructions.
-	Do not skip anything; do not assume anything. FOLLOW THE INSTRUCTIONS.
-	Offenders will be bonked.
+## Keep this in mind, or I will lose mine.
+
+	If you're new to Wabbajack or Skyrim modding in general: please read this readme in its entirety.
+	Follow the instructions. Do not skip anything; do not assume anything.
+	I didn't write documentation for fun. I wrote it so you would READ it.
+	FOLLOW THE INSTRUCTIONS. Offenders will be bonked.
 
 
 ## Requirements
