@@ -34,7 +34,7 @@ View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-
 
 
 ## Preamble
-SSS (Spack's Sexy Skyrim) is the modlist ever. Using the wonderful Animonculory Visual Overhaul as a base, SSS is primarily meant to provide a complete overhaul of Skyrim's graphics while also including:
+SSS (Spack's Sexy Skyrim) is the modlist ever. Using Animonculory Visual Overhaul as a base, SSS is primarily meant to provide a complete overhaul of Skyrim's graphics while also including:
 
 - Improved and tweaked combat
 - Actually playable third-person
@@ -53,9 +53,7 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 
 ![image](images/SSS-NAT.webp)
 
-**If you're new to Wabbajack or Skyrim modding in general:**
-
-	Please read this guide in its entirety.
+	If you're new to Wabbajack or Skyrim modding in general, please read this guide in its entirety. Do not skip anything; do not assume anything. You will be bonked.
 
 
 ## Requirements
@@ -67,7 +65,7 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 ##### LoversLab
   - You will also need a free [LoversLab](https://www.loverslab.com/register/) account.
 
-*If you do not have an account with one or both of these sites, make them now by clicking the links above.*
+*If you do not have an account with one or both of these sites, you can make them now by clicking the links above.*
 
 
 ### Disk Space
@@ -76,7 +74,7 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 
 
 ## Installation
-If you are updating the modlist, skip to the [updating section](#updating).
+If you are updating the modlist, skip to the [updating section](#updating-the-modlist).
 
 
 ### Pre-Installation
@@ -87,7 +85,7 @@ Prior to installing, complete the following steps.
 3. Reinstall Skyrim **outside of a Windows system-managed folder. (e.g. Desktop, Downloads)**. Somewhere like `C:\Games` is a good location. I recommend using [this program](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to easily set up a new Steam library location.
 4. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 5. Start the game's launcher and let it do the graphics check. Do not worry about the settings as they will be replaced during installation.
-6. Start the game. Once you've reached the main menu, exit and proceed with installation. You do not need to download any of the CC content.
+6. Start the game. Once you've reached the main menu, you may exit and proceed with installation. You do not need to download any of the CC content for SSS.
 
 
 ### Wabbajack Installation
@@ -146,23 +144,19 @@ While [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) is i
 
 1. **Do not use custom RGB colors for any vanilla tintmask. You MUST use preset colors.**
 	
-	- This includes skin tone, hair color, vanilla makeup, etc; anything in the "Colors" tab. Custom colors **can and will** cause synchronization issues, such as other players having the same hair/skin color as you. However...
+	- This includes skin tone, hair color, vanilla makeup, etc; anything in the "Colors" tab. ***Custom colors will cause synchronization issues 100% of the time.***
 	
 2. **Anything in the "Makeup" tab will sync, and can be a custom RGB color.**
 	
-	- Feel free to go crazy here! *However*.....
+	- Feel free to go crazy here!
 
 3. **Nothing in the "Body Paint", "Face Paint", "Hand Paint", or "Foot Paint" tabs will sync.**
 
-	- These are added by RaceMenu, so ST has no way to pass on this information. You may still add paints here; they are non-problematic. Just keep in mind that other players will not be able to see them.
+	- You may still add paints here; just keep in mind that other players will not be able to see them.
 	
 4. **RaceMenu-added morphs will not sync.**
 	
-	- Again, ST has no way to pass on this info. Like #3, they are also otherwise non-problematic, but if you have customized your character to look good with RaceMenu's morphs, or are loading a preset, then you will look "wrong" to other players. To look correct on every client, go to the "All" tab and make sure every slider below "Lip Color" is zeroed/default.
-	
-5. **Beware of custom colors when loading a RaceMenu preset file.**
-	
-	- Even if the color matches a preset one, RaceMenu still stores and loads this as an ARGB value, therefore making the game see it as a custom color, causing the issues mentioned in Rule #1. If you are loading a RaceMenu preset, you will need to make sure ALL the sliders in the "Colors" tab have been matched to a preset color.
+	- Like #3, these are also non-problematic, but if you want to make sure you look correct on every client, go to the "All" tab and make sure every slider below "Lip Color" is zeroed/default.
 
 
 ### Controls
@@ -192,7 +186,7 @@ For information on questing and Skyrim Together's party system, read the [Playgu
 
 - First read [this modlist's FAQ](#faq-&-common-issues).
 - If your issue isn't resolved: check out Skyrim Together's [Troubleshooting](https://wiki.tiltedphoques.com/tilted-online/guides/troubleshooting) and [FAQ](https://wiki.tiltedphoques.com/tilted-online/general-information/faq) sections.
-- If your issue still isn't resolved: **Bother me first. DO NOT report bugs to or bother the Skyrim Together/Tilted Online devs!** They are not and should not be responsible for issues with this specific modlist. If your issue isn't listed on their site, I probably caused it myself.
+- If your issue still isn't resolved: **Report them to ME. DO NOT report bugs to or bother the Skyrim Together/Tilted Online devs!** They are not and should not be responsible for issues with this specific modlist. If your issue isn't listed on their site, assume I caused it myself.
 
 Phew. That was a lot of information. You made it. ***Now go fist fight some dragons—together!***
 
@@ -200,7 +194,7 @@ Phew. That was a lot of information. You made it. ***Now go fist fight some drag
 ## Updating
 There are two important updates you should be aware of:
 - Updates to Skyrim Together. I recommend always having the latest version.
-- Updates to the modlist itself. These are not required, but may have vital fixes; check the [changelog](CHANGELOG.md).
+- Updates to the modlist itself. These are not required, but may have vital fixes; check the [changelog](CHANGELOG.md) for update information.
 
 <!--
 ### Updating Skyrim Together
@@ -293,7 +287,7 @@ Everything in the modlist is self-contained. Simply delete the modlist folder, a
 ## Credits and Thanks
 - _YOU_ for reading this. Thank you!
 - Althro and the Animonculory Team for AVO, the foundation of this list. Let's be real here: they did 99% of the work for me.
-- TitansBane and Sovn for their wonderful lists, Elysium and Aldrnari, respectively. Many decisions in the list were inspired by their work and my many hours of gameplay in their lists.
+- TitansBane and Sovn for their lists, Elysium and Aldrnari, respectively. Many decisions in the list were inspired by their work and my many hours of gameplay in their lists.
 - My friends, for playtesting, giving feedback, and their emotional and moral support.
 - The bear, for its unyielding dedication to my cause.
 
