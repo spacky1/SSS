@@ -53,7 +53,7 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 
 ![image](images/SSS-NAT.webp)
 
-## :clap: READ :clap: THE :clap: INSTRUCTIONS
+## :clap: READ :clap: THE :clap: INSTRUCTIONS :clap:
 
 	Please read the installation guide in its entirety.
 	Especially if you're new to Wabbajack or Skyrim modding in general.
