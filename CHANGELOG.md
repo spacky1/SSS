@@ -53,7 +53,6 @@
 - Removed [Dynamic Weather and Time Based Detection (SE and AE compatible)](https://www.nexusmods.com/skyrimspecialedition/mods/62546/?tab=files&file_id=274637)
 - Removed [Dynamic Weather and Time Based Detection (SE and AE compatible)](https://www.nexusmods.com/skyrimspecialedition/mods/62546/?tab=files&file_id=273263)
 - Removed [Fuz Ro D-oh - Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=255064)
-- Removed [Go to bed](https://www.nexusmods.com/skyrimspecialedition/mods/4224/?tab=files&file_id=259320)
 - Removed [Hide Quest Items in Container Menu](https://www.nexusmods.com/skyrimspecialedition/mods/51243/?tab=files&file_id=270959)
 - Removed [Hotkey Potions](https://www.nexusmods.com/skyrimspecialedition/mods/60243/?tab=files&file_id=283687)
 - Removed [LOD Unloading Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/61251/?tab=files&file_id=256294)
