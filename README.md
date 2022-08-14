@@ -59,9 +59,9 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 	Especially if you're new to Wabbajack or Skyrim modding in general.
 	
 	This is a step-by-step list of instructions.
+	I made sure every instruction is as clear and concise as possible.
 	Follow the instructions.
 	
-	I made sure every instruction is as clear and concise as possible.
 	I didn't write extensive documentation for myself, or for fun.
 	I wrote this document for you, so that you would read it.
 	
