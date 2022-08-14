@@ -77,7 +77,7 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 ### Accounts
 ##### NexusMods
   - You will need a [NexusMods](https://users.nexusmods.com/register) account.
-  - Nexus Premium (~$7) is highly recommended as well.
+  - Nexus Premium (~$7) is highly recommended as well. Otherwise you will have to manually click the download button on each mod.
 
 ##### LoversLab
   - You will also need a [LoversLab](https://www.loverslab.com/register/) account.
