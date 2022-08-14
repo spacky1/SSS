@@ -55,10 +55,13 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 
 ## Keep this in mind, or I will lose mine.
 
-	If you're new to Wabbajack or Skyrim modding in general: please read this readme in its entirety.
-	Follow the instructions. Do not skip anything; do not assume anything.
-	I didn't write documentation for fun. I wrote it so you would READ it.
-	FOLLOW THE INSTRUCTIONS. Offenders will be bonked.
+	Please read the installation guide in its entirety, especially if you're new to Wabbajack or Skyrim modding in general.
+	Follow the instructions.
+	Do not skip anything; do not assume anything.
+	I didn't write documentation for fun, or for myself. I wrote it so you would READ it.
+	FOLLOW THE INSTRUCTIONS.
+	If you refuse to read and expect me to spoonfeed you instructions:
+	You will be bonked.
 
 
 ## Requirements
