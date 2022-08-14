@@ -16,7 +16,7 @@ View the complete list of mods [here](https://loadorderlibrary.com/lists/spacks-
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing SSS](#downloading-and-installing-SSS)
-      - [Problems with installation](#problems-with-installation)
+      - [Problems with Installation](#problems-with-installation)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
   - [Playing the Modist](#playing-the-list)
@@ -62,7 +62,7 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 	Follow the instructions.
 	
 	I didn't write lengthy documentation for myself, or for fun.
-	I didn't make every instruction as clear and concise as possible, only for you to ignore them.
+	I didn't make every instruction as clear and concise as possible so that you could ignore them.
 	I wrote this document for you, so that you would read it.
 	FOLLOW THE INSTRUCTIONS.
 	
@@ -82,8 +82,6 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 ##### LoversLab
   - You will also need a [LoversLab](https://www.loverslab.com/register/) account.
 
-*If you do not have an account with one or both of these sites, you can make them now by clicking the links above.*
-
 
 ### Disk Space
   - Space required: **approx. 180 GB** (including downloads)
@@ -102,7 +100,7 @@ Prior to installing, complete the following steps. If you've already done this, 
 3. Reinstall Skyrim **outside of a Windows system-managed folder. (e.g. Desktop, Downloads)**. Somewhere like `C:\Games` is a good location. I recommend using [this program](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to easily set up a new Steam library location.
 4. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 5. Start the game's launcher and let it do the graphics check. Do not worry about the settings as they will be replaced during installation.
-6. Start the game. Once you've reached the main menu, you may exit and proceed with installation. You do not need to download any of the CC content for SSS.
+6. Start the game. Once you've reached the main menu, you may exit and proceed with installation. You do not need to download any of the CC content for this modlist.
 
 
 ### Wabbajack Installation
@@ -120,7 +118,7 @@ Downloading and installing the modlist can take a while depending on your intern
 4. Press the button to begin the install.
 	- If you have Nexus Premium, feel free to go do something else while WJ does its thing.
 	- If not, you will have to start the download for each mod manually.
-6. If the installation is successful, move on to [Post-Installation](#post-installation). If not...
+6. If the installation is successful, move on to [Post-Installation](#post-installation).
 
 
 ##### Problems with Installation
@@ -178,7 +176,7 @@ While [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) is i
 
 
 ### Controls
-There are many mod-added hotkeys and menus, the most important ones listed below. Refer to it if you need. It won't leave. Most of these may be rebound in their MCM.
+There are many mod-added hotkeys and menus. The most important ones are listed below. Most of these may be rebound in the MCM.
 
 - **Skyrim Together Menu**: `Right Control` or `F2` (cannot be rebound, afaik)
 - **Emotes**: `Right Alt`
@@ -305,7 +303,7 @@ Everything in the modlist is self-contained. Simply delete the modlist folder, a
 ## Credits and Thanks
 - _YOU_ for reading this. Thank you!
 - Althro and the Animonculory Team for AVO, the foundation of this list. Let's be real here: they did 99% of the work for me.
-- TitansBane and Sovn for their lists, Elysium and Aldrnari, respectively. Many decisions in the list were inspired by their work and my many hours of gameplay in their lists.
+- TitansBane and Sovn for their lists, Elysium and Aldrnari, respectively. Many of my decisions were inspired by their work and my many hours of gameplay in their modlists.
 - My friends, for playtesting, giving feedback, and their emotional and moral support.
 - The bear, for its unyielding dedication to my cause.
 
