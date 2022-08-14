@@ -1,5 +1,6 @@
 # Changelog
 
+- [0.7.2-beta](#072-beta)
 - [0.7.1](#071)
 - [0.7.0](#070)
 - [0.6.4](#064)
@@ -15,6 +16,76 @@
 - [0.3.0](#030)
 - [0.2.0](#020)
 - [0.1.0](#010)
+
+
+## 0.7.2-beta
+
+**Build at:** `8/14/2022 1:49:11 AM`
+
+**Info**:
+
+- Download Size change: -349.6MB (Total: 66.2GB)
+- Install Size change: -1.3GB (Total: 111GB)
+
+**Download Changes**:
+
+- Added [Conditional tavern cheering and applause animation variety for NPC (DAR mod)](https://www.nexusmods.com/skyrimspecialedition/mods/63029/?tab=files&file_id=297438)
+- Added [Lively cart driver animation replacer - SE or AE](https://www.nexusmods.com/skyrimspecialedition/mods/70595/?tab=files&file_id=295532)
+- Added [Conditional Dog Barking (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/72336/?tab=files&file_id=303191)
+- Updated [Go to bed](https://www.nexusmods.com/skyrimspecialedition/mods/4224/?tab=files&file_id=259697)
+- Removed [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=201498)
+- Removed [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=241789)
+- Removed [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=241786)
+- Removed [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=243297)
+- Removed [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=249446)
+- Removed [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=240678)
+- Removed [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=240668)
+- Removed [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=233029)
+- Removed [Andrealphus' Harder Quests](https://www.nexusmods.com/skyrimspecialedition/mods/27939/?tab=files&file_id=240667)
+- Removed [Andrealphus' Harder Quests](https://www.nexusmods.com/skyrimspecialedition/mods/27939/?tab=files&file_id=101828)
+- Removed [CBBE 3BA (3BBB)](https://www.nexusmods.com/skyrimspecialedition/mods/30174/?tab=files&file_id=301086)
+- Removed [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148/?tab=files&file_id=288703)
+- Removed [Dragons Fall Down - Immersive Airborne Death](https://www.nexusmods.com/skyrimspecialedition/mods/56317/?tab=files&file_id=232029)
+- Removed [dunPOISoldiersRaidOnStart Script Tweak](https://www.nexusmods.com/skyrimspecialedition/mods/62925/?tab=files&file_id=260981)
+- Removed [Dwemer Gates Don't Reset](https://www.nexusmods.com/skyrimspecialedition/mods/26331/?tab=files&file_id=284203)
+- Removed [Dynamic Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/65963/?tab=files&file_id=292862)
+- Removed [Dynamic Lowered Hoods](https://www.nexusmods.com/skyrimspecialedition/mods/65964/?tab=files&file_id=274711)
+- Removed [Dynamic Weather and Time Based Detection (SE and AE compatible)](https://www.nexusmods.com/skyrimspecialedition/mods/62546/?tab=files&file_id=274637)
+- Removed [Dynamic Weather and Time Based Detection (SE and AE compatible)](https://www.nexusmods.com/skyrimspecialedition/mods/62546/?tab=files&file_id=273263)
+- Removed [Fuz Ro D-oh - Silent Voice](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=255064)
+- Removed [Go to bed](https://www.nexusmods.com/skyrimspecialedition/mods/4224/?tab=files&file_id=259320)
+- Removed [Hide Quest Items in Container Menu](https://www.nexusmods.com/skyrimspecialedition/mods/51243/?tab=files&file_id=270959)
+- Removed [Hotkey Potions](https://www.nexusmods.com/skyrimspecialedition/mods/60243/?tab=files&file_id=283687)
+- Removed [LOD Unloading Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/61251/?tab=files&file_id=256294)
+- Removed [Mannequin Management](https://www.nexusmods.com/skyrimspecialedition/mods/38221/?tab=files&file_id=161013)
+- Removed [Mfg Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669/?tab=files&file_id=250492)
+- Removed [Pickpocket Reset](https://www.nexusmods.com/skyrimspecialedition/mods/13838/?tab=files&file_id=198406)
+- Removed [Sharpen Other Swords](https://www.nexusmods.com/skyrimspecialedition/mods/52723/?tab=files&file_id=216135)
+- Removed [Simplest Horses (and other mounts)](https://www.nexusmods.com/skyrimspecialedition/mods/54225/?tab=files&file_id=290326)
+- Removed [SPID-Protected Innocent Citizens - Protected or Essential NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/57736/?tab=files&file_id=286473)
+- Removed [Tavern AI fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107/?tab=files&file_id=267651)
+- Removed [Vanilla Scripting Enhancements](https://www.nexusmods.com/skyrimspecialedition/mods/68139/?tab=files&file_id=286548)
+- Removed [Werewolf Killcam Remover](https://www.nexusmods.com/skyrimspecialedition/mods/41925/?tab=files&file_id=168118)
+- Removed [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=209295)
+- Removed [CBPC - Physics with Collisions for SSE and VR](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=289366)
+- Removed [ConsoleUtilSSE](https://www.nexusmods.com/skyrimspecialedition/mods/24858/?tab=files&file_id=246915)
+- Removed [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125/?tab=files&file_id=243514)
+- Removed [High Gate Ruins Puzzle Reset Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53643/?tab=files&file_id=220379)
+- Removed [Mfg Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669/?tab=files&file_id=250804)
+- Removed [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=304790)
+- Removed [WIDeadBodyCleanupScript Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/62413/?tab=files&file_id=259270)
+- Removed [3BA 3BBB CBPC Realistic Firm Breasts Butt and Thighs (3BA RFBBT)](https://www.nexusmods.com/skyrimspecialedition/mods/59123/?tab=files&file_id=290056)
+- Removed [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=273041)
+- Removed [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261/?tab=files&file_id=273044)
+- Removed [CBPC Equipment physics SE and AE](https://www.nexusmods.com/skyrimspecialedition/mods/58990/?tab=files&file_id=250142)
+- Removed [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839/?tab=files&file_id=284365)
+- Removed [Face Discoloration Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42441/?tab=files&file_id=243426)
+- Removed [Immersive Equipment Displays - CBPC Horse Gear](https://www.nexusmods.com/skyrimspecialedition/mods/71658/?tab=files&file_id=300464)
+- Removed [Keyword Item Distributor (KID)](https://www.nexusmods.com/skyrimspecialedition/mods/55728/?tab=files&file_id=284514)
+- Removed [NPC AI Process Position Fix  - NG](https://www.nexusmods.com/skyrimspecialedition/mods/69326/?tab=files&file_id=290386)
+- Removed [Skyrim Search SE](https://www.nexusmods.com/skyrimspecialedition/mods/45689/?tab=files&file_id=254739)
+- Removed [3BA Vanilla Clothes and Armor](https://www.nexusmods.com/skyrimspecialedition/mods/51610/?tab=files&file_id=304239)
+- Removed [Quiet Dog](https://www.nexusmods.com/skyrimspecialedition/mods/6066/?tab=files&file_id=13929)
 
 
 ## 0.7.1
