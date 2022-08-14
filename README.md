@@ -61,10 +61,12 @@ It's also great for those who are new to Skyrim or modded Skyrim because of the 
 	This is a step-by-step list of instructions.
 	Follow the instructions.
 	
-	I didn't write lengthy documentation for myself. I wrote it for you, so you would READ it.
+	I didn't write lengthy documentation for myself, or for fun.
+	I didn't make every instruction as clear and concise as possible, only for you to ignore them.
+	I wrote this document for you, so that you would read it.
 	FOLLOW THE INSTRUCTIONS.
 	
-	If something doesn't work as expected, or you need clarification, check here first before asking for support.
+	If something doesn't work as expected, or you need clarification, check this page first before asking for support.
 	You will get your solution much quicker, and you won't waste other peoples' time. Win-win.
 	
 	If you refuse to read, and expect me to personally spoonfeed you:
